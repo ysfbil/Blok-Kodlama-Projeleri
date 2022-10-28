@@ -1,0 +1,41 @@
+/* Base css class for design objects */
+.vfabrika-default-design-object-style {
+	position: absolute;
+}
+
+.vfabrika-default-design-object-style:hover {
+	position: absolute;
+}
+
+.vfabrika-default-design-object-style:active {
+	position: absolute;
+}
+
+.vfabrika-default-design-object-style:disabled {
+	position: absolute;
+}
+
+/* inputButtonDesignObject - button1 */
+.vfabrika-design-object-style_6e1d89f4-a31a-42ae-acef-6aaa519860f0_34b85abd-01a5-4bcd-9de2-bdf4c10aca3e_857bbbc2-8ad7-4b58-9fef-fd3ed387c90b {
+	left: 78px;
+	top: 139px;
+	width: 100px;
+	height: 25px;
+}
+
+/* textDesignObject - text1 */
+.vfabrika-design-object-style_6e1d89f4-a31a-42ae-acef-6aaa519860f0_34b85abd-01a5-4bcd-9de2-bdf4c10aca3e_284f5b38-80d7-4be3-b230-0c8f2a530c88 {
+	left: 78px;
+	top: 80px;
+	width: 579px;
+	height: 40px;
+}
+
+/* imageDesignObject - image1 */
+.vfabrika-design-object-style_6e1d89f4-a31a-42ae-acef-6aaa519860f0_34b85abd-01a5-4bcd-9de2-bdf4c10aca3e_e96727bc-3e16-4403-be17-b89885042ecf {
+	left: 119px;
+	top: -163px;
+	width: 450px;
+	height: 654px;
+}
+

@@ -1,0 +1,322 @@
+{
+  "id": "7523d574-f210-4067-a192-4999ecff75d8",
+  "name": "EtkilesimliGorsel",
+  "type": "web_template_interactive_image",
+  "version": "7.0.35",
+  "properties": {
+    "outputFolder": "output",
+    "deleteOutputFolder": false,
+    "currentProjectFileName": "C:\\Users\\yusuf\\Desktop\\EtkilesimliGorsel\\EtkilesimliGorsel\\EtkilesimliGorsel.vpf",
+    "currentProjectFolder": "C:\\Users\\yusuf\\Desktop\\EtkilesimliGorsel\\EtkilesimliGorsel"
+  },
+  "items": [
+    {
+      "name": "Images",
+      "type": "folder",
+      "expanded": true,
+      "items": [
+        {
+          "name": "hacim.jpg",
+          "type": "file"
+        },
+        {
+          "name": "hacim_05.png",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "output",
+      "type": "folder",
+      "expanded": false,
+      "items": [
+        {
+          "name": "resources",
+          "type": "folder",
+          "expanded": true,
+          "items": [
+            {
+              "name": "css",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "application.min.css",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "font",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "Muli-Bold.ttf",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "img",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "player",
+                  "type": "folder",
+                  "expanded": true,
+                  "items": [
+                    {
+                      "name": "watermark.png",
+                      "type": "file"
+                    }
+                  ]
+                },
+                {
+                  "name": "theme",
+                  "type": "folder",
+                  "expanded": true,
+                  "items": [
+                    {
+                      "name": "button_check_active.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_check_disabled.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_close.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_down.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_hotspot.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_hotspot_image.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_hotspot_text.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_hotspot_video.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_next.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_play.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_previous.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_previous_disabled.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_up.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "Icon_questionmark.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "icon_question_enabled-1.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "icon_question_enabled.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "icon_question_mark.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "icon_results.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "icon_rightanswer.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "icon_text.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "Icon_wronganswer.svg",
+                      "type": "file"
+                    }
+                  ]
+                },
+                {
+                  "name": "hacim.jpg",
+                  "type": "file"
+                },
+                {
+                  "name": "hacim_05.png",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "js",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "components",
+                  "type": "folder",
+                  "expanded": true,
+                  "items": [
+                    {
+                      "name": "componentImage.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "componentQuestionMarkTheWords.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "componentQuestionMultipleChoice.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "componentQuestionTrueFalse.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "components.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "componentText.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "componentVideo.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "watermark.js",
+                      "type": "file"
+                    }
+                  ]
+                },
+                {
+                  "name": "libraries",
+                  "type": "folder",
+                  "expanded": true,
+                  "items": [
+                    {
+                      "name": "clamp.min.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "ftellipsis.min.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "perfect-scrollbar.min.js",
+                      "type": "file"
+                    }
+                  ]
+                },
+                {
+                  "name": "application.js",
+                  "type": "file"
+                },
+                {
+                  "name": "applicationData.js",
+                  "type": "file"
+                },
+                {
+                  "name": "imgPreloader.js",
+                  "type": "file"
+                },
+                {
+                  "name": "internalLoader.js",
+                  "type": "file"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "default.html",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Videos",
+      "type": "folder",
+      "expanded": true,
+      "items": [
+        {
+          "name": "Trt Belgesel Hdtürk Okçuluğunun Serüveni (Bölüm 5)(20210118 185346)-1.mp4",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "EtkilesimliGorsel.vpf",
+      "type": "file"
+    }
+  ],
+  "configuration": {
+    "general": {
+      "title": "Maddelerin Hacimleri",
+      "language": "turkish",
+      "videoFile": "hacim.jpg",
+      "stageWidth": 700,
+      "stageHeight": 500
+    },
+    "content": {
+      "hotspots": [
+        {
+          "type": "image",
+          "title": "Formülü",
+          "image": "hacim_05.png",
+          "position": {
+            "x": 66,
+            "y": 38
+          }
+        },
+        {
+          "type": "text",
+          "title": "Kenar uzunlukları",
+          "text": "Yarı çap kalınlığın yarısına eşittir.",
+          "position": {
+            "x": 475,
+            "y": 154
+          }
+        },
+        {
+          "type": "video",
+          "title": "Osmanlıda Barut",
+          "video": "Trt Belgesel Hdtürk Okçuluğunun Serüveni (Bölüm 5)(20210118 185346)-1.mp4",
+          "position": {
+            "x": 324,
+            "y": 221
+          }
+        }
+      ]
+    }
+  }
+}

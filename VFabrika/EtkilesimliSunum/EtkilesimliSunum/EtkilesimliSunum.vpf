@@ -1,0 +1,403 @@
+{
+  "id": "306dc80a-7e32-4da4-83f3-b1d4c3de8bc7",
+  "name": "EtkilesimliSunum",
+  "type": "web_template_interactive_presentation",
+  "version": "7.0.35",
+  "properties": {
+    "outputFolder": "output",
+    "deleteOutputFolder": false,
+    "currentProjectFileName": "C:\\Users\\yusuf\\Desktop\\EtkilesimliSunum\\EtkilesimliSunum\\EtkilesimliSunum.vpf",
+    "currentProjectFolder": "C:\\Users\\yusuf\\Desktop\\EtkilesimliSunum\\EtkilesimliSunum"
+  },
+  "items": [
+    {
+      "name": "Images",
+      "type": "folder",
+      "expanded": true,
+      "items": [
+        {
+          "name": "2021-02-28_161142.png",
+          "type": "file"
+        },
+        {
+          "name": "2021-02-28_161152.png",
+          "type": "file"
+        },
+        {
+          "name": "2021-02-28_161240.png",
+          "type": "file"
+        },
+        {
+          "name": "hacim_03.png",
+          "type": "file"
+        },
+        {
+          "name": "hacim_09.png",
+          "type": "file"
+        },
+        {
+          "name": "hacim_10.png",
+          "type": "file"
+        },
+        {
+          "name": "hacim_13.png",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "output",
+      "type": "folder",
+      "expanded": false,
+      "items": [
+        {
+          "name": "resources",
+          "type": "folder",
+          "expanded": true,
+          "items": [
+            {
+              "name": "css",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "application.min.css",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "font",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "Muli-Bold.ttf",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "img",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "player",
+                  "type": "folder",
+                  "expanded": true,
+                  "items": [
+                    {
+                      "name": "watermark.png",
+                      "type": "file"
+                    }
+                  ]
+                },
+                {
+                  "name": "theme",
+                  "type": "folder",
+                  "expanded": true,
+                  "items": [
+                    {
+                      "name": "background.png",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_check_active.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_check_disabled.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_close.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_down.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_minimize.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_next.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_next_disabled.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_pause.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_play.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_previous.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_previous_disabled.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_up.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "icon_correct.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "icon_not_answered.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "icon_question_mark.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "icon_question_mark_xl.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "icon_results.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "icon_results_flag.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "icon_text.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "icon_text_xl.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "icon_wrong.svg",
+                      "type": "file"
+                    }
+                  ]
+                },
+                {
+                  "name": "hacim_03.png",
+                  "type": "file"
+                },
+                {
+                  "name": "hacim_09.png",
+                  "type": "file"
+                },
+                {
+                  "name": "hacim_10.png",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "js",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "components",
+                  "type": "folder",
+                  "expanded": true,
+                  "items": [
+                    {
+                      "name": "componentImage.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "componentQuestionMarkTheWords.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "componentQuestionMultipleChoice.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "componentQuestionTrueFalse.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "componentResults.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "components.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "componentText.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "componentVideo.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "watermark.js",
+                      "type": "file"
+                    }
+                  ]
+                },
+                {
+                  "name": "libraries",
+                  "type": "folder",
+                  "expanded": true,
+                  "items": [
+                    {
+                      "name": "clamp.min.js",
+                      "type": "file"
+                    },
+                    {
+                      "name": "perfect-scrollbar.min.js",
+                      "type": "file"
+                    }
+                  ]
+                },
+                {
+                  "name": "application.js",
+                  "type": "file"
+                },
+                {
+                  "name": "applicationData.js",
+                  "type": "file"
+                },
+                {
+                  "name": "imgPreloader.js",
+                  "type": "file"
+                },
+                {
+                  "name": "internalLoader.js",
+                  "type": "file"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "default.html",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Videos",
+      "type": "folder",
+      "expanded": true,
+      "items": [
+        {
+          "name": "Trt Belgesel Hdtürk Okçuluğunun Serüveni (Bölüm 5)(20210118 185346)-1.mp4",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "EtkilesimliSunum.vpf",
+      "type": "file"
+    }
+  ],
+  "configuration": {
+    "general": {
+      "title": "Hacim",
+      "language": "turkish"
+    },
+    "content": {
+      "slides": [
+        {
+          "backgroundImage": "hacim_03.png",
+          "interaction": {
+            "type": "text",
+            "data": {
+              "title": "Görseldeki şekil küptür",
+              "text": "Küpün tüm kenarları birbirine eşittir.",
+              "location": "top_left"
+            }
+          }
+        },
+        {
+          "backgroundImage": "hacim_09.png",
+          "interaction": {
+            "type": "image",
+            "data": {
+              "title": "Dikdörtgen prizması hacim formülü",
+              "image": "hacim_10.png",
+              "location": "top_right"
+            }
+          }
+        },
+        {
+          "backgroundImage": "hacim_13.png",
+          "interaction": {
+            "type": "video",
+            "data": {
+              "title": " Barut için uygun bir kap :)",
+              "image": "Trt Belgesel Hdtürk Okçuluğunun Serüveni (Bölüm 5)(20210118 185346)-1.mp4",
+              "location": "middle_center"
+            }
+          }
+        },
+        {
+          "backgroundImage": "2021-02-28_161142.png",
+          "interaction": {
+            "type": "question-multiple-choice",
+            "data": {
+              "image": null,
+              "question": "Görsele göre cevapla",
+              "choices": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+              ],
+              "correctChoiceLetter": "a",
+              "location": "middle_center"
+            }
+          }
+        },
+        {
+          "backgroundImage": "2021-02-28_161240.png",
+          "interaction": {
+            "type": "question-mark-the-words",
+            "data": {
+              "image": null,
+              "question": "Görsele göre cevaplayınız (Birden çok seçebilirsin)",
+              "choices": [
+                "I",
+                "II",
+                "III",
+                null,
+                null
+              ],
+              "correctChoiceLetters": "b, c",
+              "location": "bottom_left"
+            }
+          }
+        },
+        {
+          "backgroundImage": "2021-02-28_161152.png",
+          "interaction": {
+            "type": "question-true-false",
+            "data": {
+              "image": null,
+              "question": "Bu soru doğru yazılmış mı?",
+              "correctChoice": true,
+              "location": "bottom_right"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

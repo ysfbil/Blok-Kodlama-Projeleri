@@ -1,0 +1,14 @@
+{
+  "version": "7.0.35",
+  "name": "HafizaOyunu",
+  "projects": [
+    {
+      "id": "8d680588-5abf-463d-b0cd-1ac3a74e9172",
+      "name": "HafizaOyunu",
+      "fileName": "HafizaOyunu\\HafizaOyunu.vpf",
+      "expanded": false,
+      "unloaded": false
+    }
+  ],
+  "activeProjectId": "8d680588-5abf-463d-b0cd-1ac3a74e9172"
+}

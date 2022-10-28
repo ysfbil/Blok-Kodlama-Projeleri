@@ -1,0 +1,247 @@
+{
+  "id": "67fe7958-c0e5-4687-99c7-12da2991a661",
+  "name": "CumleleriSirala",
+  "type": "web_template_sentence_ordering",
+  "version": "7.0.35",
+  "properties": {
+    "outputFolder": "output",
+    "deleteOutputFolder": false,
+    "currentProjectFileName": "C:\\Users\\yusuf\\Desktop\\CumleleriSirala\\CumleleriSirala\\CumleleriSirala.vpf",
+    "currentProjectFolder": "C:\\Users\\yusuf\\Desktop\\CumleleriSirala\\CumleleriSirala"
+  },
+  "items": [
+    {
+      "name": "output",
+      "type": "folder",
+      "expanded": false,
+      "items": [
+        {
+          "name": "resources",
+          "type": "folder",
+          "expanded": true,
+          "items": [
+            {
+              "name": "css",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "application.min.css",
+                  "type": "file"
+                },
+                {
+                  "name": "theme.min.css",
+                  "type": "file"
+                },
+                {
+                  "name": "watermark.min.css",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "font",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "Dekko-Regular.ttf",
+                  "type": "file"
+                },
+                {
+                  "name": "Muli-Bold.ttf",
+                  "type": "file"
+                },
+                {
+                  "name": "Muli-Light.ttf",
+                  "type": "file"
+                },
+                {
+                  "name": "Muli-Medium.ttf",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "img",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "player",
+                  "type": "folder",
+                  "expanded": true,
+                  "items": [
+                    {
+                      "name": "watermark.png",
+                      "type": "file"
+                    }
+                  ]
+                },
+                {
+                  "name": "theme",
+                  "type": "folder",
+                  "expanded": true,
+                  "items": [
+                    {
+                      "name": "background.png",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_check.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_pause.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_play.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_question.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_restart.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_sound_off.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_sound_on.svg",
+                      "type": "file"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "js",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "application.js",
+                  "type": "file"
+                },
+                {
+                  "name": "applicationData.js",
+                  "type": "file"
+                },
+                {
+                  "name": "imgPreloader.js",
+                  "type": "file"
+                },
+                {
+                  "name": "internalLoader.js",
+                  "type": "file"
+                },
+                {
+                  "name": "watermark.js",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "sound",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "AUD-20190514-WA0002.m4a",
+                  "type": "file"
+                },
+                {
+                  "name": "complete.mp3",
+                  "type": "file"
+                },
+                {
+                  "name": "com_reportin.wav",
+                  "type": "file"
+                },
+                {
+                  "name": "Cuma8.mp3",
+                  "type": "file"
+                },
+                {
+                  "name": "fil-necati-2.jpg",
+                  "type": "file"
+                },
+                {
+                  "name": "welcome.mp3",
+                  "type": "file"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "default.html",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Sounds",
+      "type": "folder",
+      "expanded": true,
+      "items": [
+        {
+          "name": "AUD-20190514-WA0002.m4a",
+          "type": "file"
+        },
+        {
+          "name": "Baby Shark Dance _ Sing and Dance! _ Animal Songs _ PINKFONG Songs for Children ( 128kbps ).mp3",
+          "type": "file"
+        },
+        {
+          "name": "com_reportin.wav",
+          "type": "file"
+        },
+        {
+          "name": "Cuma8.mp3",
+          "type": "file"
+        },
+        {
+          "name": "fil-necati-2.jpg",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "CumleleriSirala.vpf",
+      "type": "file"
+    }
+  ],
+  "configuration": {
+    "activityLanguage": "turkish",
+    "activityTheme": "school",
+    "general": {
+      "title": "Kaldırma kuvveti deneyi"
+    },
+    "header": {
+      "title": "Yönerge"
+    },
+    "contentText": "",
+    "contentImage": "",
+    "contentSound": "Baby Shark Dance _ Sing and Dance! _ Animal Songs _ PINKFONG Songs for Children ( 128kbps ).mp3",
+    "items": [
+      {
+        "sourceText": "Malzemeler temin edilir"
+      },
+      {
+        "sourceText": "Tuz ve su kullanılarak farklı yoğunlukta sıvılar elde edilir"
+      },
+      {
+        "sourceText": "Her cisim kaplara bırakılarak gözlemlenir."
+      },
+      {
+        "sourceText": "Kaldırma kuvvetinin bağlı olduğu değişkenler tartışılır"
+      }
+    ]
+  }
+}

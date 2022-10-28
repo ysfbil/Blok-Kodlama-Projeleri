@@ -1,0 +1,39 @@
+{
+  "id": "7fd430af-4014-426d-bf87-f619efed4dc8",
+  "name": "KelimeTahmini",
+  "type": "web_template_guess_the_word",
+  "version": "7.0.35",
+  "properties": {
+    "outputFolder": "output",
+    "deleteOutputFolder": false,
+    "currentProjectFileName": "C:\\Users\\yusuf\\Desktop\\KelimeTahmini\\KelimeTahmini\\KelimeTahmini.vpf",
+    "currentProjectFolder": "C:\\Users\\yusuf\\Desktop\\KelimeTahmini\\KelimeTahmini"
+  },
+  "items": [],
+  "configuration": {
+    "general": {
+      "title": "Özkütle",
+      "theme": "school",
+      "language": "turkish"
+    },
+    "header": {
+      "title": "Yönerge"
+    },
+    "word": {
+      "items": [
+        {
+          "question": "Bir santimetreküp maddeyi tartarsak ...... buluruz.",
+          "answer": "özkütle"
+        },
+        {
+          "question": "Karışmayan sıvılarda üste kalanın özkütlesi daha ......",
+          "answer": "küçüktür"
+        },
+        {
+          "question": "Gemiler içlerindeki hava boşluğundan dolayı sudan daha ...... bir özkütleye sahip olurlar.",
+          "answer": "küçük"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+﻿html, body {
+    height: 100%;
+}
+
+ul {
+    padding: 20px;
+}
+
+#vfabrika-container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+#vfabrika-interaction-disabler {
+    display: none;
+    opacity: 0;
+    z-index: 999;
+    position: absolute;
+}
+
+#vfabrika-stage {
+    overflow: hidden;
+    background-color: #ffffff;
+    position: relative;
+    width: 1000px;
+    height: 625px;
+}
+
+.vfabrika-layer {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 0px;
+    height: 0px;
+}
+
+.vfabrika-layer-default {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 0px;
+    height: 0px;
+}

@@ -1,0 +1,425 @@
+/* Base css class for design objects */
+.vfabrika-default-design-object-style {
+	position: absolute;
+}
+
+.vfabrika-default-design-object-style:hover {
+	position: absolute;
+}
+
+.vfabrika-default-design-object-style:active {
+	position: absolute;
+}
+
+.vfabrika-default-design-object-style:disabled {
+	position: absolute;
+}
+
+/* inputButtonDesignObject - button1 */
+.vfabrika-design-object-style_3aa2e229-1fab-4146-baa3-4c3d60cf688e_a0212d3f-a8fb-4fd2-805a-580c317269d5_e828b403-a9a4-4960-8776-54af4226459d {
+	left: 635px;
+	top: 414px;
+	width: 100px;
+	height: 25px;
+}
+
+/* triggerDesignObject - trigger2 */
+.vfabrika-design-object-style_3aa2e229-1fab-4146-baa3-4c3d60cf688e_3ef0308c-494c-4844-a3b1-3c978c61e1bb_5f812f8b-ea0c-45cc-b7f2-60e96627ebc8 {
+	left: 842px;
+	top: 226px;
+	width: 48px;
+	height: 48px;
+}
+
+/* inputButtonDesignObject - button4 */
+.vfabrika-design-object-style_3aa2e229-1fab-4146-baa3-4c3d60cf688e_3ef0308c-494c-4844-a3b1-3c978c61e1bb_a5e6725e-4611-4005-88e9-8bdc4180a1af {
+	left: 635px;
+	top: 414px;
+	width: 100px;
+	height: 25px;
+}
+
+/* imageButtonDesignObject - imageButton1 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_d9a2d8fb-f43a-4b7b-86c0-b44c7261e74e_28783cef-ad41-485d-9335-d1e1dd2a3c99 {
+	left: 239px;
+	top: 38px;
+	width: 150px;
+	height: 40px;
+}
+
+/* videoDesignObject - video1 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_d9a2d8fb-f43a-4b7b-86c0-b44c7261e74e_84b95223-e4f7-4f4a-a7cd-612745f3d2c6 {
+	left: 13px;
+	top: 96px;
+	width: 596px;
+	height: 346px;
+}
+
+/* imageDesignObject - image1 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_90d35858-929b-4b0e-af16-ca638cf5f5d5_2900b386-28bc-4fcb-ac0e-69adfeadff6a {
+	left: 41px;
+	top: 25px;
+	width: 130px;
+	height: 127px;
+}
+
+/* imageDesignObject - image2 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_90d35858-929b-4b0e-af16-ca638cf5f5d5_d5bfa86b-bb93-4c6f-9758-7829d230929c {
+	left: 214px;
+	top: 40px;
+	width: 512px;
+	height: 256px;
+}
+
+/* tableDesignObject - table1 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_e4612d34-409f-4ea6-8b14-6e6ed01e3c7d_fdea83b3-b2d0-4c7a-afe7-a63ce082b808 {
+	left: 36px;
+	top: 35px;
+	width: 491px;
+	height: 318px;
+}
+
+/* inputButtonDesignObject - button2 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_e4612d34-409f-4ea6-8b14-6e6ed01e3c7d_dcbad880-d493-4b04-b92e-9ffb335f6aba {
+	left: 569px;
+	top: 51px;
+	width: 100px;
+	height: 25px;
+}
+
+/* sliderDesignObject - slider1 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_e4612d34-409f-4ea6-8b14-6e6ed01e3c7d_04c860c0-28fd-455c-ad0f-25711816071a {
+	left: 575px;
+	top: 105px;
+	width: 150px;
+	height: 30px;
+}
+
+/* sliderDesignObject - slider2 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_e4612d34-409f-4ea6-8b14-6e6ed01e3c7d_263dd362-f0c0-4fc4-a222-0ee9800d4b9a {
+	left: 575px;
+	top: 155px;
+	width: 150px;
+	height: 30px;
+}
+
+/* inputDropDownListDesignObject - dropDown1 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_e4612d34-409f-4ea6-8b14-6e6ed01e3c7d_a0454438-afd2-4517-a2cb-b08cdf01141c {
+	left: 575px;
+	top: 218px;
+	width: 149px;
+	height: 25px;
+}
+
+/* canvasDesignObject - canvas1 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_d1054f41-8d03-4db1-95b5-842b5496c1ee_b785da93-fd6a-4408-bf8d-4dd5880ac2f0 {
+	left: 26px;
+	top: 12px;
+	width: 561px;
+	height: 435px;
+}
+
+/* inputButtonDesignObject - button3 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_d1054f41-8d03-4db1-95b5-842b5496c1ee_d5b671fa-56c9-467a-90fe-b8e863cef502 {
+	left: 626px;
+	top: 28px;
+	width: 100px;
+	height: 25px;
+}
+
+/* highlightDesignObject - highlight1 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_d1054f41-8d03-4db1-95b5-842b5496c1ee_8cbb5d86-ff02-4463-91b2-3a75e27de86d {
+	left: 623px;
+	top: 13px;
+	width: 100px;
+	height: 63px;
+}
+
+/* delayDesignObject - delay1 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_d1054f41-8d03-4db1-95b5-842b5496c1ee_a84601f8-9329-4e7c-85a5-9fccc626d2a3 {
+	left: 780px;
+	top: 138px;
+	width: 48px;
+	height: 48px;
+}
+
+/* timerDesignObject - timer1 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_d1054f41-8d03-4db1-95b5-842b5496c1ee_518773e9-3d1b-4b31-a536-5e7e678bf642 {
+	left: 783px;
+	top: 206px;
+	width: 48px;
+	height: 48px;
+}
+
+/* contentDesignObject - content1 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_d1054f41-8d03-4db1-95b5-842b5496c1ee_eacb9c7a-1aa4-4c52-8827-931677efb5b1 {
+	left: 620px;
+	top: 96px;
+	width: 100px;
+	height: 42px;
+}
+
+/* triggerDesignObject - trigger1 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_d1054f41-8d03-4db1-95b5-842b5496c1ee_a7878500-3675-4cdf-85d5-4f414e043956 {
+	left: 786px;
+	top: 275px;
+	width: 48px;
+	height: 48px;
+}
+
+/* parallaxScrollDesignObject - parallaxScroll1 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_70edc311-6c50-4da8-8e1b-4675cbc05cb9_a1d5edc5-37d4-4a81-9692-8799170a0e64 {
+	left: 0px;
+	top: 0px;
+	width: 762px;
+	height: 463px;
+}
+
+/* imageDesignObject - image3 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_70edc311-6c50-4da8-8e1b-4675cbc05cb9_2b2d6132-f36b-48a3-821a-d24bacf9b725 {
+	left: 18px;
+	top: 366px;
+	width: 221px;
+	height: 95px;
+}
+
+/* triggerDesignObject - trigger3 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_70edc311-6c50-4da8-8e1b-4675cbc05cb9_19929aa9-4a64-4121-a6dd-a9a489f01c59 {
+	left: -104px;
+	top: 61px;
+	width: 48px;
+	height: 48px;
+}
+
+/* textDesignObject - text1 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_49c78064-f91e-4bef-820c-1bda9fdf5095 {
+	left: 23px;
+	top: 18px;
+	width: 392px;
+	height: 64px;
+}
+
+/* imageDesignObject - image4 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_81d29921-b24f-4af7-bd4f-c28cf7173538 {
+	left: 26px;
+	top: 137px;
+	width: 554px;
+	height: 281px;
+}
+
+/* contentDesignObject - content2 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_736ec94d-8d14-4538-b4d9-b1027b45ba83 {
+	left: 99px;
+	top: 21px;
+	width: 638px;
+	height: 412px;
+}
+
+/* contentDesignObject - CVB_CNT1 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_23889770-d42f-41ce-a503-e861df78becb {
+	left: 326px;
+	top: 199px;
+	width: 181px;
+	height: 46px;
+	border-style: solid;	
+	border-width: 5px;	
+}
+
+/* textDesignObject - SRK1 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_e673d665-2ce5-44ca-aeed-097dca6e809b {
+	left: 452px;
+	top: 11px;
+	width: 178px;
+	height: 42px;
+	background-color: lightblue;	
+	border-style: solid;	
+	border-width: 5px;	
+}
+
+/* textDesignObject - SRK5 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_7aa104cf-3ee9-4c97-a352-12e268b22233 {
+	left: 452px;
+	top: 57px;
+	width: 178px;
+	height: 42px;
+	background-color: lightblue;	
+	border-style: solid;	
+	border-width: 5px;	
+}
+
+/* contentDesignObject - CVB_CNT2 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_deeefbfc-5f47-4f62-a291-6e33e907db1f {
+	left: 210px;
+	top: 81px;
+	width: 181px;
+	height: 46px;
+	border-style: solid;	
+	border-width: 5px;	
+}
+
+/* textDesignObject - SRK2 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_088bb058-e82d-49c3-8ab9-20afae5e5f4c {
+	left: 452px;
+	top: 104px;
+	width: 178px;
+	height: 42px;
+	background-color: lightblue;	
+	border-style: solid;	
+	border-width: 5px;	
+}
+
+/* textDesignObject - SRK3 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_3480b683-4d0a-4936-88e8-961751f9ff87 {
+	left: 452px;
+	top: 146px;
+	width: 178px;
+	height: 42px;
+	background-color: lightblue;	
+	border-style: solid;	
+	border-width: 5px;	
+}
+
+/* contentDesignObject - CVB_CNT3 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_dd769131-3c24-4986-aea9-cd255ab2b761 {
+	left: 126px;
+	top: 294px;
+	width: 181px;
+	height: 46px;
+	border-style: solid;	
+	border-width: 5px;	
+}
+
+/* textDesignObject - SRK4 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_55a54a5c-7c56-44df-a12c-ba0bab96f616 {
+	left: 460px;
+	top: 258px;
+	width: 178px;
+	height: 42px;
+	background-color: lightblue;	
+	border-style: solid;	
+	border-width: 5px;	
+}
+
+/* contentDesignObject - CVB_CNT4 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_88c85023-f9f1-473b-862a-981d4a90ec09 {
+	left: -59px;
+	top: 104px;
+	width: 181px;
+	height: 46px;
+	border-style: solid;	
+	border-width: 5px;	
+}
+
+/* contentDesignObject - CVB_CNT5 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_824ad1aa-a02b-474c-8b71-d6efda7abd16 {
+	left: 111px;
+	top: 356px;
+	width: 181px;
+	height: 46px;
+	border-style: solid;	
+	border-width: 5px;	
+}
+
+/* textDesignObject - TXT_CVB2 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_04d24382-4ece-41d1-92aa-1f93d5036550 {
+	left: 311px;
+	top: 99px;
+	width: 178px;
+	height: 42px;
+	background-color: lightblue;	
+	border-style: solid;	
+	border-width: 5px;	
+}
+
+/* textDesignObject - TXT_CVB1 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_dc9a327d-4b60-479d-ac9b-1bfb4a8de702 {
+	left: 428px;
+	top: 220px;
+	width: 178px;
+	height: 42px;
+	background-color: lightblue;	
+	border-style: solid;	
+	border-width: 5px;	
+}
+
+/* imageDesignObject - image5 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_9d10c464-8fd6-4c54-b9b8-8fcb7449fa23 {
+	left: 439px;
+	top: 296px;
+	width: 89px;
+	height: 7px;
+}
+
+/* imageDesignObject - image6 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_79e21fd9-20e6-4c98-902a-6ca8afc81ae9 {
+	left: 338px;
+	top: 184px;
+	width: 89px;
+	height: 7px;
+}
+
+/* imageDesignObject - image7 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_4523b114-c03a-4167-aafa-d1c235e03971 {
+	left: 274px;
+	top: 295px;
+	width: 54px;
+	height: 10px;
+}
+
+/* textDesignObject - TXT_CVB3 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_c70e7dbc-87a8-40a5-aa52-4fa632b30c1d {
+	left: 228px;
+	top: 317px;
+	width: 178px;
+	height: 42px;
+	background-color: lightblue;	
+	border-style: solid;	
+	border-width: 5px;	
+}
+
+/* textDesignObject - TXT_CVB4 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_3438d0d0-215c-45f2-b18c-dc90ef9b79c2 {
+	left: 42px;
+	top: 127px;
+	width: 178px;
+	height: 42px;
+	background-color: lightblue;	
+	border-style: solid;	
+	border-width: 5px;	
+}
+
+/* imageDesignObject - image8 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_ed6b2cd2-e16a-4e95-ae9e-68ba53a702b9 {
+	left: 29px;
+	top: 211px;
+	width: 83px;
+	height: 10px;
+}
+
+/* textDesignObject - TXT_CVB5 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_7891935d-946f-4205-8649-3d9975f46ee0 {
+	left: 183px;
+	top: 391px;
+	width: 178px;
+	height: 42px;
+	background-color: lightblue;	
+	border-style: solid;	
+	border-width: 5px;	
+}
+
+/* imageDesignObject - image9 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_8cd5269c-ce8f-4536-8d17-027a6221bcbd {
+	left: 153px;
+	top: 391px;
+	width: 54px;
+	height: 10px;
+}
+
+/* imageDesignObject - image10 */
+.vfabrika-design-object-style_62d910cf-6aeb-449c-8af6-67716c60fbc7_1c288421-6340-41ce-a809-aae138d00d95_1f6cfc50-d372-4a65-b9c3-c8ad83fc0bb2 {
+	left: 384px;
+	top: 395px;
+	width: 54px;
+	height: 10px;
+}
+

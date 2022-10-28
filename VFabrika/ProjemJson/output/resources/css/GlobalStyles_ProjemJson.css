@@ -1,0 +1,145 @@
+/* Base css class for design objects */
+.vfabrika-default-design-object-style {
+	position: absolute;
+}
+
+.vfabrika-default-design-object-style:hover {
+	position: absolute;
+}
+
+.vfabrika-default-design-object-style:active {
+	position: absolute;
+}
+
+.vfabrika-default-design-object-style:disabled {
+	position: absolute;
+}
+
+/* textDesignObject - textA */
+.vfabrika-design-object-style_a7a90408-1544-41ac-a069-7ab4809f13d4_83183326-d2dc-4e26-87da-8ecb7ddca128_c177f574-fc9b-4f29-afd4-ccaac78860da {
+	left: 99px;
+	top: 369px;
+	width: 437px;
+	height: 37px;
+}
+
+/* textDesignObject - textB */
+.vfabrika-design-object-style_a7a90408-1544-41ac-a069-7ab4809f13d4_83183326-d2dc-4e26-87da-8ecb7ddca128_541bec60-0056-481a-948c-620fd4dff5ac {
+	left: 99px;
+	top: 418px;
+	width: 437px;
+	height: 37px;
+}
+
+/* textDesignObject - textC */
+.vfabrika-design-object-style_a7a90408-1544-41ac-a069-7ab4809f13d4_83183326-d2dc-4e26-87da-8ecb7ddca128_a6bb5920-82c9-4ca3-9d73-4affab2dd39e {
+	left: 99px;
+	top: 471px;
+	width: 437px;
+	height: 37px;
+}
+
+/* textDesignObject - textD */
+.vfabrika-design-object-style_a7a90408-1544-41ac-a069-7ab4809f13d4_83183326-d2dc-4e26-87da-8ecb7ddca128_b67b3a17-7510-460b-bbda-f95f46027cd6 {
+	left: 99px;
+	top: 528px;
+	width: 437px;
+	height: 37px;
+}
+
+/* delayDesignObject - delay1 */
+.vfabrika-design-object-style_a7a90408-1544-41ac-a069-7ab4809f13d4_83183326-d2dc-4e26-87da-8ecb7ddca128_35faa814-5bf8-49c6-b68b-0ac66903ddcc {
+	left: -84px;
+	top: 516px;
+	width: 48px;
+	height: 48px;
+}
+
+/* inputButtonDesignObject - button1 */
+.vfabrika-design-object-style_135581d5-b1ab-4f08-9577-ddbecf09eec3_b8ff6338-32f9-410a-b282-edce24929df0_ac6aabae-8a83-4980-8a19-bd6ce215a880 {
+	left: 649px;
+	top: 542px;
+	width: 76px;
+	height: 25px;
+}
+
+/* textDesignObject - text1 */
+.vfabrika-design-object-style_135581d5-b1ab-4f08-9577-ddbecf09eec3_b8ff6338-32f9-410a-b282-edce24929df0_3fb856b0-196a-492d-86ee-cb214303662c {
+	left: 464px;
+	top: 28px;
+	width: 271px;
+	height: 312px;
+}
+
+/* textDesignObject - txtA */
+.vfabrika-design-object-style_135581d5-b1ab-4f08-9577-ddbecf09eec3_b8ff6338-32f9-410a-b282-edce24929df0_7dd44b7f-3ae6-4c99-a55b-74da5931a2ff {
+	left: 132px;
+	top: 375px;
+	width: 404px;
+	height: 37px;
+}
+
+/* imageDesignObject - image1 */
+.vfabrika-design-object-style_135581d5-b1ab-4f08-9577-ddbecf09eec3_b8ff6338-32f9-410a-b282-edce24929df0_e63a2438-3a7f-4973-9b68-9405bff36dbc {
+	left: 35px;
+	top: 28px;
+	width: 408px;
+	height: 307px;
+}
+
+/* textDesignObject - txtB */
+.vfabrika-design-object-style_135581d5-b1ab-4f08-9577-ddbecf09eec3_b8ff6338-32f9-410a-b282-edce24929df0_a344f519-3506-4cf0-8c5f-0c32fb407cc8 {
+	left: 132px;
+	top: 425px;
+	width: 404px;
+	height: 37px;
+}
+
+/* textDesignObject - txtC */
+.vfabrika-design-object-style_135581d5-b1ab-4f08-9577-ddbecf09eec3_b8ff6338-32f9-410a-b282-edce24929df0_06bc8854-3a99-4b0f-ad79-d44da4ca1109 {
+	left: 132px;
+	top: 478px;
+	width: 404px;
+	height: 37px;
+}
+
+/* textDesignObject - txtD */
+.vfabrika-design-object-style_135581d5-b1ab-4f08-9577-ddbecf09eec3_b8ff6338-32f9-410a-b282-edce24929df0_4bd61276-f458-4fa1-9ab9-f68355669795 {
+	left: 132px;
+	top: 536px;
+	width: 404px;
+	height: 37px;
+}
+
+/* contentDesignObject - cA */
+.vfabrika-design-object-style_dc46fe99-65f3-4575-a6f7-251dc25571fe_e8d3c43f-29f7-4ffa-a96e-f65e4afe380c_dbbcf6b9-12ab-43c4-8bbc-9b68951bff9b {
+	left: 91px;
+	top: 367px;
+	width: 447px;
+	height: 44px;
+}
+
+/* contentDesignObject - cB */
+.vfabrika-design-object-style_dc46fe99-65f3-4575-a6f7-251dc25571fe_e8d3c43f-29f7-4ffa-a96e-f65e4afe380c_9aa279b7-cc02-4ab4-ab92-208f7e4a850b {
+	left: 91px;
+	top: 419px;
+	width: 447px;
+	height: 44px;
+}
+
+/* contentDesignObject - cC */
+.vfabrika-design-object-style_dc46fe99-65f3-4575-a6f7-251dc25571fe_e8d3c43f-29f7-4ffa-a96e-f65e4afe380c_22b66486-a40c-456d-b4a2-6607768669b9 {
+	left: 89px;
+	top: 468px;
+	width: 447px;
+	height: 44px;
+}
+
+/* contentDesignObject - cD */
+.vfabrika-design-object-style_dc46fe99-65f3-4575-a6f7-251dc25571fe_e8d3c43f-29f7-4ffa-a96e-f65e4afe380c_c93b190e-fbeb-4a78-864a-2777148d2980 {
+	left: 92px;
+	top: 527px;
+	width: 447px;
+	height: 44px;
+}
+

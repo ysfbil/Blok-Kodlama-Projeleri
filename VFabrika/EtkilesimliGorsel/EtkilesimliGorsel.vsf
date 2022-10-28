@@ -1,0 +1,14 @@
+{
+  "version": "7.0.35",
+  "name": "EtkilesimliGorsel",
+  "projects": [
+    {
+      "id": "7523d574-f210-4067-a192-4999ecff75d8",
+      "name": "EtkilesimliGorsel",
+      "fileName": "EtkilesimliGorsel\\EtkilesimliGorsel.vpf",
+      "expanded": false,
+      "unloaded": false
+    }
+  ],
+  "activeProjectId": "7523d574-f210-4067-a192-4999ecff75d8"
+}

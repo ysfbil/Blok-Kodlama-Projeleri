@@ -1,0 +1,6 @@
+<svg id="Card" xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <g id="Rectangle_Kart" data-name="Rectangle Kart" fill="#fff" stroke="#7fe1a5" stroke-width="4">
+    <rect width="150" height="150" rx="16" stroke="none"/>
+    <rect x="2" y="2" width="146" height="146" rx="14" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,147 @@
+﻿{
+  "name": "",
+  "description": "",
+  "properties": [],
+  "tables": [
+    {
+      "name": "sorular",
+      "description": null,
+      "columns": [
+        {
+          "name": "no",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": true,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": true,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "soru",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "soru_resim",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "secenekler",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "cevap",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": true,
+          "options": [
+            {
+              "name": "a",
+              "value": "0"
+            },
+            {
+              "name": "b",
+              "value": "1"
+            },
+            {
+              "name": "c",
+              "value": "2"
+            },
+            {
+              "name": "d",
+              "value": "3"
+            },
+            {
+              "name": "e",
+              "value": "4"
+            }
+          ],
+          "properties": []
+        }
+      ],
+      "properties": [],
+      "rows": [
+        {
+          "no": 1,
+          "soru": "Türkiyenin başkenti hangi ildir?",
+          "soru_resim": "harita.png",
+          "secenekler": "Siirt;Ankara;Elazığ;Şırnak",
+          "cevap": "1"
+        },
+        {
+          "no": 2,
+          "soru": "Hangisi Ortadoğuda değildir.",
+          "soru_resim": "ortadogu.png",
+          "secenekler": "Türkiye;Irak;Britanya;Filistin",
+          "cevap": "2"
+        },
+        {
+          "no": 3,
+          "soru": "Hangi ilimizde fıstık yetişmez?",
+          "soru_resim": "harita.png",
+          "secenekler": "Siirt;Urfa;Antep;Tunceli",
+          "cevap": "3"
+        },
+        {
+          "no": 4,
+          "soru": "Resimdeki dinazor hangisidir?",
+          "soru_resim": "anky.png",
+          "secenekler": "Triceratops;T-Rex;Ankylasourus;Brachisourus",
+          "cevap": "2"
+        },
+        {
+          "no": 5,
+          "soru": "Hangisi çocuk kanalı değildir?",
+          "soru_resim": "",
+          "secenekler": "TRT Kids;Minika Çocuk;Zarok;Minika Go",
+          "cevap": "0"
+        }
+      ]
+    }
+  ]
+}

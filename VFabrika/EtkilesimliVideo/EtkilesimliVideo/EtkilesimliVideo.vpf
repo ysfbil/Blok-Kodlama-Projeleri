@@ -1,0 +1,84 @@
+{
+  "id": "f4d4da07-05f6-490d-ac29-6bd31a402f64",
+  "name": "EtkilesimliVideo",
+  "type": "web_template_interactive_video",
+  "version": "7.0.35",
+  "properties": {
+    "outputFolder": "output",
+    "deleteOutputFolder": false,
+    "currentProjectFileName": "C:\\Users\\yusuf\\Desktop\\EtkilesimliVideo\\EtkilesimliVideo\\EtkilesimliVideo.vpf",
+    "currentProjectFolder": "C:\\Users\\yusuf\\Desktop\\EtkilesimliVideo\\EtkilesimliVideo"
+  },
+  "items": [
+    {
+      "name": "Images",
+      "type": "folder",
+      "expanded": true,
+      "items": [
+        {
+          "name": "ışınlanma.jpg",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Videos",
+      "type": "folder",
+      "expanded": true,
+      "items": [
+        {
+          "name": "Işınlanan Adam.mp4",
+          "type": "file"
+        },
+        {
+          "name": "TRT BELGESEL HD-Türk Okçuluğunun Serüveni (Bölüm 5)(20210118_185346).TSV",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "EtkilesimliVideo.vpf",
+      "type": "file"
+    }
+  ],
+  "configuration": {
+    "general": {
+      "title": "Işınlanma",
+      "language": "turkish",
+      "videoFile": "Işınlanan Adam.mp4",
+      "stageWidth": 1366,
+      "stageHeight": 768
+    },
+    "content": {
+      "interactions": [
+        {
+          "type": "question",
+          "time": "00:10",
+          "text": "Bu adam neden kızmış olabilir?",
+          "image": null,
+          "choiceA": "A",
+          "choiceB": "B",
+          "choiceC": "C",
+          "choiceD": "D",
+          "choiceE": "E",
+          "correctChoiceLetter": "c",
+          "alignment": "middle_center"
+        },
+        {
+          "type": "question",
+          "time": "00:24",
+          "text": "ADAM NASIL BİR ANDA BAŞKA BİR YERE GİTTİ?",
+          "image": "ışınlanma.jpg",
+          "choiceA": "IŞINLANMIŞ",
+          "choiceB": "IŞIK HIZINI GEÇMİŞ",
+          "choiceC": "IŞIK HIZINA AZ YAKLAŞMIŞ",
+          "choiceD": "IŞIK HIZINA ÇOK YAKLAŞMIŞ",
+          "choiceE": "HAYAL KURUYOR",
+          "correctChoiceLetter": "a",
+          "alignment": "bottom_left"
+        }
+      ],
+      "bookmarks": []
+    }
+  }
+}

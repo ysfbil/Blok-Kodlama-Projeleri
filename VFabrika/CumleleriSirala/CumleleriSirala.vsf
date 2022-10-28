@@ -1,0 +1,14 @@
+{
+  "version": "7.0.35",
+  "name": "CumleleriSirala",
+  "projects": [
+    {
+      "id": "67fe7958-c0e5-4687-99c7-12da2991a661",
+      "name": "CumleleriSirala",
+      "fileName": "CumleleriSirala\\CumleleriSirala.vpf",
+      "expanded": false,
+      "unloaded": false
+    }
+  ],
+  "activeProjectId": "67fe7958-c0e5-4687-99c7-12da2991a661"
+}

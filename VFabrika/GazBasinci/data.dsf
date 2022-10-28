@@ -1,0 +1,163 @@
+﻿{
+  "name": "",
+  "description": "",
+  "properties": [],
+  "tables": [
+    {
+      "name": "sorular",
+      "description": "",
+      "columns": [
+        {
+          "name": "no",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": true,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": true,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "soru",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "soru_resim",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "secenekler",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "cevap",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": true,
+          "options": [
+            {
+              "name": "a",
+              "value": "0"
+            },
+            {
+              "name": "b",
+              "value": "1"
+            },
+            {
+              "name": "c",
+              "value": "2"
+            },
+            {
+              "name": "d",
+              "value": "3"
+            },
+            {
+              "name": "e",
+              "value": "4"
+            }
+          ],
+          "properties": []
+        }
+      ],
+      "properties": [],
+      "rows": [
+        {
+          "no": 1,
+          "soru": "Yandaki soruyu çözünüz",
+          "soru_resim": "1.png",
+          "secenekler": "Yalnız I; I ve II; I ve III; II ve III;I-II-III",
+          "cevap": "4"
+        },
+        {
+          "no": 2,
+          "soru": "",
+          "soru_resim": "2.png",
+          "secenekler": "Yalnız I; I ve II; I ve III; II ve III;I-II-III",
+          "cevap": "1"
+        },
+        {
+          "no": 3,
+          "soru": "",
+          "soru_resim": "3.png",
+          "secenekler": "Yalnız I; I ve II; I ve III; II ve III;I-II-III",
+          "cevap": "2"
+        }
+      ]
+    },
+    {
+      "name": "duraklar",
+      "description": "",
+      "columns": [
+        {
+          "name": "saniye",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        }
+      ],
+      "properties": [],
+      "rows": [
+        {
+          "saniye": 16
+        },
+        {
+          "saniye": 137
+        }
+      ]
+    }
+  ]
+}

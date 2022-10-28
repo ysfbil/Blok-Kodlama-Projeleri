@@ -1,0 +1,14 @@
+{
+  "version": "7.0.35",
+  "name": "CoktanSecmeli",
+  "projects": [
+    {
+      "id": "b0f2943c-96ee-4947-a73b-7036eeeb814f",
+      "name": "CoktanSecmeli",
+      "fileName": "CoktanSecmeli\\CoktanSecmeli.vpf",
+      "expanded": false,
+      "unloaded": false
+    }
+  ],
+  "activeProjectId": "b0f2943c-96ee-4947-a73b-7036eeeb814f"
+}

@@ -1,0 +1,14 @@
+{
+  "version": "7.0.35",
+  "name": "BilgiKartlari",
+  "projects": [
+    {
+      "id": "0cafe59e-0946-4be7-baf2-50355f2df98b",
+      "name": "BilgiKartlari",
+      "fileName": "BilgiKartlari\\BilgiKartlari.vpf",
+      "expanded": false,
+      "unloaded": false
+    }
+  ],
+  "activeProjectId": "0cafe59e-0946-4be7-baf2-50355f2df98b"
+}

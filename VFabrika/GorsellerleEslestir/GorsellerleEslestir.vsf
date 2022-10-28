@@ -1,0 +1,14 @@
+{
+  "version": "7.0.35",
+  "name": "GorsellerleEslestir",
+  "projects": [
+    {
+      "id": "7235b5f9-da4f-4477-9530-e93fe97bf272",
+      "name": "GorsellerleEslestir",
+      "fileName": "GorsellerleEslestir\\GorsellerleEslestir.vpf",
+      "expanded": true,
+      "unloaded": false
+    }
+  ],
+  "activeProjectId": "7235b5f9-da4f-4477-9530-e93fe97bf272"
+}

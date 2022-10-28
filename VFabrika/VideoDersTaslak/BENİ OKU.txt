@@ -1,0 +1,21 @@
+İlk olarak bu şablonu farklı kaydederek proje adınızı veriniz. Proje adında boşluk ve Türkçe karakter kullanmayınız.
+
+Video ders için, ilk sayfadaki videoyu ve video resmini güncelleyiniz. Video ve video resim dosyanız tümü küçük harfter oluşmalı, boşluk ve Türkçe karakter içermemelidir. Aynı kurala soru resimleri için de uyunuz.
+
+Bu videoya açıklama durakları eklemek için Sebit menüsünden  Yadımcı --> Bildirimler penceresini açınız ve bulunan örneklerdeki gibi açıklamaları giriniz.
+
+Bu açıklamaların çıkacağı süreyi saniye olarak girmek için Araçlar --> Json Veri Seti Editörü açınız. Bu projede bulunan data.dsf dosyasını seçerek düzenleyiniz. Saniye olarak durakları giriniz. Duraklar ile açıklamalar aynı sırayı takip eder. 
+
+Aynı yerden soru resim dosyalarını, soruların cevap şıklarını ve doğru cevapları ekleyebilirsiniz. Soruları projedeki images klasörüne 685x315 boyutunda yüklemeniz gerekir. 
+
+Sağdaki proje öğeleri menüsünde Mavi renkli proje ana klasörünü sağ tıklayıp proje özelliklerini açınız. Önyükleyici sekmesinde Bilindik Dosya Tiplerini tara butonuna tıklayarak dosya listei güncellemesi yapınınız.
+
+Projeyi kaydediniz ve üstteki menüden sağa oklu dünya sembolüne tıklayarak test ediniz.
+
+Herşey yolunda görünüyorsa; bu açıklamayı sildikten sonra Eğitim menüsünden İçerik paketi oluştura tıklayınız.
+
+Referans görsel olarak uygun bir jpg dosyası ayarlayınız. Dosya adından büyük harf, _ dışında simge ve Türçe karekter olmayacak şekilde ayarladıktan sonra yayınlaya basınız.
+
+Kaydedilen dosyayı eba'da içerik ekle'den Etkileşimli Tahta Uygulaması Cinsinden ekleyiniz.
+
+

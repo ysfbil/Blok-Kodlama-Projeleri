@@ -1,0 +1,87 @@
+{
+  "id": "df1f234f-a57e-4383-a486-0d165598b051",
+  "name": "BoslukDoldurma",
+  "type": "web_template_fill_in_the_blanks_with_dropdowns",
+  "version": "7.0.35",
+  "properties": {
+    "outputFolder": "output",
+    "deleteOutputFolder": false,
+    "currentProjectFileName": "C:\\Users\\yusuf\\Desktop\\BoslukDoldurma\\BoslukDoldurma\\BoslukDoldurma.vpf",
+    "currentProjectFolder": "C:\\Users\\yusuf\\Desktop\\BoslukDoldurma\\BoslukDoldurma"
+  },
+  "items": [
+    {
+      "name": "Sounds",
+      "type": "folder",
+      "expanded": true,
+      "items": [
+        {
+          "name": "_KURBANIN OLAYDIM_ ENSTRÜMANTAL  ( NASİHAT ) ( Fon Müziği ).mp3",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "BoslukDoldurma.vpf",
+      "type": "file"
+    }
+  ],
+  "configuration": {
+    "general": {
+      "title": "İtme Momentum Boşluk Doldurma",
+      "theme": "school",
+      "language": "turkish"
+    },
+    "header": {
+      "title": "İtme Momentum Boşluk Doldurma Yönerge Metni"
+    },
+    "data": {
+      "question": {
+        "text": "Bir cismin kütlesi ile hızının çarpımına [answer1] denir.\r\n\r\nMomentumdaki değişim [answer2] olarak adlandırılır.\r\n\r\nEşit [answer3] iki cisim çarpıştığında hızlar yer değiştirir.\r\n\r\nEşit [answer4] iki cisim çarpıştığında kendi hızının tersi ile harekete devam eder.\r\n\r\nİki boyutlu çarpışmalarda yatay ve düşey [answer1] ayrı ayrı korunur.\r\n\r\nKinetik enerji ve momentumun korunduğu çarpışmalara [answer6] denir.\r\n\r\nKinetik enerjinin korunmadığı sadece momentumun korunduğu çarpışmalara [answer7] denir.\r\n\r\nİki cisim çarpıştığından bir birine yapışıyorsa ortak kütle [answer8] yönünde hareket eder.\r\n\r\n[answer9] bir cisme ait parçların bileşke momentumları patlamadan önce cismin sahip olduğu momentuma eşittir.\r\n\r\n[answer10] ekzoztan atılan gazların neden olduğu momentum değişiminin itme etksiyle hareket ederler.",
+        "sound": "_KURBANIN OLAYDIM_ ENSTRÜMANTAL  ( NASİHAT ) ( Fon Müziği ).mp3"
+      },
+      "answers": [
+        {
+          "name": "answer1",
+          "value": "momentum"
+        },
+        {
+          "name": "answer2",
+          "value": "itme"
+        },
+        {
+          "name": "answer3",
+          "value": "kütleli"
+        },
+        {
+          "name": "answer4",
+          "value": "momentumlu"
+        },
+        {
+          "name": "answer5",
+          "value": "momentum"
+        },
+        {
+          "name": "answer6",
+          "value": "esnek çarpışma"
+        },
+        {
+          "name": "answer7",
+          "value": "esnek olmayan çarpışmalar"
+        },
+        {
+          "name": "answer8",
+          "value": "bileşke momentum"
+        },
+        {
+          "name": "answer9",
+          "value": "Patlayan"
+        },
+        {
+          "name": "answer10",
+          "value": "Roketler"
+        }
+      ]
+    }
+  }
+}

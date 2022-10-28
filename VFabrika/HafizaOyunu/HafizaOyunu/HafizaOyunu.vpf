@@ -1,0 +1,250 @@
+{
+  "id": "8d680588-5abf-463d-b0cd-1ac3a74e9172",
+  "name": "HafizaOyunu",
+  "type": "web_template_flipping_cards",
+  "version": "7.0.35",
+  "properties": {
+    "outputFolder": "output",
+    "deleteOutputFolder": false,
+    "currentProjectFileName": "C:\\Users\\yusuf\\Desktop\\HafizaOyunu\\HafizaOyunu\\HafizaOyunu.vpf",
+    "currentProjectFolder": "C:\\Users\\yusuf\\Desktop\\HafizaOyunu\\HafizaOyunu"
+  },
+  "items": [
+    {
+      "name": "Images",
+      "type": "folder",
+      "expanded": true,
+      "items": [
+        {
+          "name": "krono.jpg",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "output",
+      "type": "folder",
+      "expanded": false,
+      "items": [
+        {
+          "name": "resources",
+          "type": "folder",
+          "expanded": true,
+          "items": [
+            {
+              "name": "css",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "theme",
+                  "type": "folder",
+                  "expanded": true,
+                  "items": [
+                    {
+                      "name": "theme.min.css",
+                      "type": "file"
+                    }
+                  ]
+                },
+                {
+                  "name": "application.min.css",
+                  "type": "file"
+                },
+                {
+                  "name": "theme.min.css",
+                  "type": "file"
+                },
+                {
+                  "name": "watermark.min.css",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "font",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "Dekko-Regular.ttf",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "img",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "player",
+                  "type": "folder",
+                  "expanded": true,
+                  "items": [
+                    {
+                      "name": "watermark.png",
+                      "type": "file"
+                    }
+                  ]
+                },
+                {
+                  "name": "theme",
+                  "type": "folder",
+                  "expanded": true,
+                  "items": [
+                    {
+                      "name": "background.png",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_restart.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_sound_off.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "button_sound_on.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "card_back.svg",
+                      "type": "file"
+                    },
+                    {
+                      "name": "card_front.svg",
+                      "type": "file"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "js",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "application.js",
+                  "type": "file"
+                },
+                {
+                  "name": "applicationData.js",
+                  "type": "file"
+                },
+                {
+                  "name": "imgPreloader.js",
+                  "type": "file"
+                },
+                {
+                  "name": "internalLoader.js",
+                  "type": "file"
+                },
+                {
+                  "name": "watermark.js",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "sound",
+              "type": "folder",
+              "expanded": true,
+              "items": [
+                {
+                  "name": "card_match.mp3",
+                  "type": "file"
+                },
+                {
+                  "name": "card_not_match.mp3",
+                  "type": "file"
+                },
+                {
+                  "name": "card_select.mp3",
+                  "type": "file"
+                },
+                {
+                  "name": "complete.mp3",
+                  "type": "file"
+                },
+                {
+                  "name": "welcome.mp3",
+                  "type": "file"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "default.html",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "HafizaOyunu.vpf",
+      "type": "file"
+    }
+  ],
+  "configuration": {
+    "activityTitle": "Yönerge",
+    "activityTheme": "school",
+    "activityLanguage": "turkish",
+    "activityName": "Fiziğin Doğası",
+    "general": {
+      "title": "Yönerge"
+    },
+    "items": [
+      {
+        "sourceType": "text",
+        "sourceText": "Kuvvet",
+        "sourceImage": "",
+        "targetType": "text",
+        "targetText": "Kütlexİvme",
+        "targetImage": ""
+      },
+      {
+        "sourceType": "text",
+        "sourceText": "İvme",
+        "sourceImage": "",
+        "targetType": "text",
+        "targetText": "Hız Değişimi/Zaman",
+        "targetImage": ""
+      },
+      {
+        "sourceType": "text",
+        "sourceText": "Hız",
+        "sourceImage": "",
+        "targetType": "text",
+        "targetText": "Yer değişimi/Zaman",
+        "targetImage": ""
+      },
+      {
+        "sourceType": "text",
+        "sourceText": "Sıcaklık",
+        "sourceImage": "",
+        "targetType": "text",
+        "targetText": "Termometre",
+        "targetImage": ""
+      },
+      {
+        "sourceType": "text",
+        "sourceText": "Enerji",
+        "sourceImage": "",
+        "targetType": "text",
+        "targetText": "GüçxZaman",
+        "targetImage": ""
+      },
+      {
+        "sourceType": "text",
+        "sourceText": "Zaman",
+        "sourceImage": "",
+        "targetType": "image",
+        "targetText": "Kronometre",
+        "targetImage": "krono.jpg"
+      }
+    ]
+  }
+}

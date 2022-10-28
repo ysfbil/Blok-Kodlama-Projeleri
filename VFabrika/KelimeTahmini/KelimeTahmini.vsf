@@ -1,0 +1,14 @@
+{
+  "version": "7.0.35",
+  "name": "KelimeTahmini",
+  "projects": [
+    {
+      "id": "7fd430af-4014-426d-bf87-f619efed4dc8",
+      "name": "KelimeTahmini",
+      "fileName": "KelimeTahmini\\KelimeTahmini.vpf",
+      "expanded": false,
+      "unloaded": false
+    }
+  ],
+  "activeProjectId": "7fd430af-4014-426d-bf87-f619efed4dc8"
+}

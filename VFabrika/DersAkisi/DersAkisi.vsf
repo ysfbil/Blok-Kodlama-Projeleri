@@ -1,0 +1,14 @@
+{
+  "version": "7.0.35",
+  "name": "DersAkisi",
+  "projects": [
+    {
+      "id": "4309a009-50a1-411d-a8b0-69bc0f54fad0",
+      "name": "DersAkisi",
+      "fileName": "DersAkisi\\DersAkisi.vpf",
+      "expanded": false,
+      "unloaded": false
+    }
+  ],
+  "activeProjectId": "4309a009-50a1-411d-a8b0-69bc0f54fad0"
+}

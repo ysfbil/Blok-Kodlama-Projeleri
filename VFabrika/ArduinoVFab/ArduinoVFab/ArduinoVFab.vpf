@@ -1,0 +1,388 @@
+{
+  "id": "939f8853-4d92-4e84-97e8-5a6f9f4125f1",
+  "name": "ArduinoVFab",
+  "type": "arduino",
+  "version": "7.0.35",
+  "properties": {
+    "outputFolder": "output",
+    "deleteOutputFolder": false,
+    "currentProjectFileName": "C:\\Users\\yusuf\\Desktop\\ArduinoVFab\\ArduinoVFab\\ArduinoVFab.vpf",
+    "currentProjectFolder": "C:\\Users\\yusuf\\Desktop\\ArduinoVFab\\ArduinoVFab",
+    "boardName": "arduinoUno"
+  },
+  "items": [],
+  "blockLayout": {
+    "workspaceLocation": {
+      "x": 0,
+      "y": 0
+    },
+    "blocks": [
+      {
+        "id": "8c515ba1-bc3b-4951-aa5c-714630c382b2",
+        "typeName": "arduinoOnLoop",
+        "enabled": true,
+        "collapsed": false,
+        "comment": null,
+        "location": {
+          "x": 97,
+          "y": 201
+        },
+        "inputs": [
+          {
+            "type": "none",
+            "name": "default",
+            "items": []
+          },
+          {
+            "type": "container",
+            "name": "code",
+            "flowBlock": {
+              "id": "38674eae-f31c-4801-b97d-2d59b42a9973",
+              "typeName": "arduinoDigitalWrite",
+              "enabled": true,
+              "collapsed": false,
+              "comment": null,
+              "location": {
+                "x": 0,
+                "y": 0
+              },
+              "inputs": [
+                {
+                  "type": "pin",
+                  "name": "default",
+                  "block": {
+                    "id": "884712eb-1cfc-4fd0-928e-8722b51919ff",
+                    "typeName": "arduinoPinState",
+                    "enabled": true,
+                    "collapsed": false,
+                    "comment": null,
+                    "location": {
+                      "x": 0,
+                      "y": 0
+                    },
+                    "inputs": [
+                      {
+                        "type": "none",
+                        "name": "default",
+                        "items": [
+                          {
+                            "type": "dropdown",
+                            "name": "state",
+                            "visible": true,
+                            "value": "HIGH"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "items": [
+                    {
+                      "type": "container",
+                      "name": "pin",
+                      "visible": true,
+                      "block": {
+                        "id": "70007e4a-af6b-4de7-9c8c-f7407e8ff6b5",
+                        "typeName": "arduinoPin",
+                        "enabled": true,
+                        "collapsed": false,
+                        "comment": null,
+                        "location": {
+                          "x": 0,
+                          "y": 0
+                        },
+                        "inputs": [
+                          {
+                            "type": "none",
+                            "name": "default",
+                            "items": [
+                              {
+                                "type": "dropdown",
+                                "name": "pin",
+                                "visible": true,
+                                "value": "13"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              ],
+              "flowBlock": {
+                "id": "6104cbea-baf0-4df8-a6e2-083666ebd612",
+                "typeName": "arduinoDelay",
+                "enabled": true,
+                "collapsed": false,
+                "comment": null,
+                "location": {
+                  "x": 0,
+                  "y": 0
+                },
+                "inputs": [
+                  {
+                    "type": "none",
+                    "name": "default",
+                    "items": [
+                      {
+                        "type": "container",
+                        "name": "interval",
+                        "visible": true,
+                        "block": {
+                          "id": "a6167f3e-992d-41f3-86c9-840e27aa8be9",
+                          "typeName": "mathValue",
+                          "enabled": true,
+                          "collapsed": false,
+                          "comment": null,
+                          "location": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "inputs": [
+                            {
+                              "type": "none",
+                              "name": "default",
+                              "items": [
+                                {
+                                  "type": "numeric",
+                                  "name": "value",
+                                  "visible": true,
+                                  "value": 1000
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "flowBlock": {
+                  "id": "ea139041-1b27-4727-8e45-318fa6ba120f",
+                  "typeName": "arduinoDigitalWrite",
+                  "enabled": true,
+                  "collapsed": false,
+                  "comment": null,
+                  "location": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "inputs": [
+                    {
+                      "type": "pin",
+                      "name": "default",
+                      "block": {
+                        "id": "fcf52d80-b512-4f32-84c8-2c3fdc92eb12",
+                        "typeName": "arduinoPinState",
+                        "enabled": true,
+                        "collapsed": false,
+                        "comment": null,
+                        "location": {
+                          "x": 0,
+                          "y": 0
+                        },
+                        "inputs": [
+                          {
+                            "type": "none",
+                            "name": "default",
+                            "items": [
+                              {
+                                "type": "dropdown",
+                                "name": "state",
+                                "visible": true,
+                                "value": "LOW"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      "items": [
+                        {
+                          "type": "container",
+                          "name": "pin",
+                          "visible": true,
+                          "block": {
+                            "id": "b54173e7-4ee4-42ce-9246-7eafbd240f7f",
+                            "typeName": "arduinoPin",
+                            "enabled": true,
+                            "collapsed": false,
+                            "comment": null,
+                            "location": {
+                              "x": 0,
+                              "y": 0
+                            },
+                            "inputs": [
+                              {
+                                "type": "none",
+                                "name": "default",
+                                "items": [
+                                  {
+                                    "type": "dropdown",
+                                    "name": "pin",
+                                    "visible": true,
+                                    "value": "13"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "flowBlock": {
+                    "id": "dd49b213-d1d6-4c61-8eba-663a9291a2dc",
+                    "typeName": "arduinoDelay",
+                    "enabled": true,
+                    "collapsed": false,
+                    "comment": null,
+                    "location": {
+                      "x": 0,
+                      "y": 0
+                    },
+                    "inputs": [
+                      {
+                        "type": "none",
+                        "name": "default",
+                        "items": [
+                          {
+                            "type": "container",
+                            "name": "interval",
+                            "visible": true,
+                            "block": {
+                              "id": "fe821d83-42b7-49e4-adf4-a10d3a8897e6",
+                              "typeName": "mathValue",
+                              "enabled": true,
+                              "collapsed": false,
+                              "comment": null,
+                              "location": {
+                                "x": 0,
+                                "y": 0
+                              },
+                              "inputs": [
+                                {
+                                  "type": "none",
+                                  "name": "default",
+                                  "items": [
+                                    {
+                                      "type": "numeric",
+                                      "name": "value",
+                                      "visible": true,
+                                      "value": 1000
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "88593e73-bbf8-4512-9325-c4f9c2f7a54f",
+        "typeName": "arduinoOnSetup",
+        "enabled": true,
+        "collapsed": false,
+        "comment": null,
+        "location": {
+          "x": 91,
+          "y": 42
+        },
+        "inputs": [
+          {
+            "type": "none",
+            "name": "default",
+            "items": []
+          },
+          {
+            "type": "container",
+            "name": "code",
+            "flowBlock": {
+              "id": "5c88e4e1-4f7b-4ccb-8fbf-3a611b22d18f",
+              "typeName": "arduinoSetPinMode",
+              "enabled": true,
+              "collapsed": false,
+              "comment": null,
+              "location": {
+                "x": 0,
+                "y": 0
+              },
+              "inputs": [
+                {
+                  "type": "pin",
+                  "name": "default",
+                  "block": {
+                    "id": "68168ab2-4ea8-4c2a-b046-9f5fe35c5fab",
+                    "typeName": "arduinoPinMode",
+                    "enabled": true,
+                    "collapsed": false,
+                    "comment": null,
+                    "location": {
+                      "x": 0,
+                      "y": 0
+                    },
+                    "inputs": [
+                      {
+                        "type": "none",
+                        "name": "default",
+                        "items": [
+                          {
+                            "type": "dropdown",
+                            "name": "mode",
+                            "visible": true,
+                            "value": "OUTPUT"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "items": [
+                    {
+                      "type": "container",
+                      "name": "pin",
+                      "visible": true,
+                      "block": {
+                        "id": "2a11186e-31da-4b93-8af3-01db70917ed1",
+                        "typeName": "arduinoPin",
+                        "enabled": true,
+                        "collapsed": false,
+                        "comment": null,
+                        "location": {
+                          "x": 0,
+                          "y": 0
+                        },
+                        "inputs": [
+                          {
+                            "type": "none",
+                            "name": "default",
+                            "items": [
+                              {
+                                "type": "dropdown",
+                                "name": "pin",
+                                "visible": true,
+                                "value": "13"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "items": []
+          }
+        ]
+      }
+    ]
+  }
+}

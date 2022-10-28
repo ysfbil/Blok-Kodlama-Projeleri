@@ -1,0 +1,386 @@
+{
+  "version": "6.8.23",
+  "name": "Projem2",
+  "solution": {},
+  "timeline": {
+    "frameIndex": 0,
+    "layerIndex": 0,
+    "layers": [
+      {
+        "uniqueId": "6e1d89f4-a31a-42ae-acef-6aaa519860f0",
+        "name": "Katman 1",
+        "selected": true,
+        "visible": true,
+        "locked": false,
+        "keyframes": [
+          {
+            "uniqueId": "34b85abd-01a5-4bcd-9de2-bdf4c10aca3e",
+            "motionTween": false,
+            "soundUrl": "",
+            "rotationDirection": "clockwise",
+            "frameCount": 1,
+            "easingFunction": "linear",
+            "designObjects": [
+              {
+                "typeName": "inputButtonDesignObject",
+                "id": "button1",
+                "uniqueId": "857bbbc2-8ad7-4b58-9fef-fd3ed387c90b",
+                "enabled": true,
+                "tag": "",
+                "location": {
+                  "x": 78,
+                  "y": 139
+                },
+                "size": {
+                  "width": 100,
+                  "height": 25
+                },
+                "alpha": 100,
+                "visible": true,
+                "useHandCursor": false,
+                "className": "",
+                "rotation": 0.0,
+                "pivotLocation": {
+                  "x": 50,
+                  "y": 12
+                },
+                "currentPivotLocation": {
+                  "x": 50,
+                  "y": 12
+                },
+                "isVisual": true,
+                "value": "OK"
+              },
+              {
+                "typeName": "textDesignObject",
+                "id": "text1",
+                "uniqueId": "284f5b38-80d7-4be3-b230-0c8f2a530c88",
+                "enabled": true,
+                "tag": "",
+                "location": {
+                  "x": 78,
+                  "y": 80
+                },
+                "size": {
+                  "width": 579,
+                  "height": 40
+                },
+                "alpha": 100,
+                "visible": true,
+                "isDraggable": false,
+                "revertDragging": "true",
+                "isDroppable": false,
+                "useHandCursor": false,
+                "className": "",
+                "rotation": 0.0,
+                "pivotLocation": {
+                  "x": 290,
+                  "y": 20
+                },
+                "currentPivotLocation": {
+                  "x": 290,
+                  "y": 20
+                },
+                "isVisual": true,
+                "highlightBehavior": false,
+                "clippingBehavior": "clip",
+                "text": ""
+              }
+            ],
+            "blocksDiagram": {
+              "uniqueId": "1ffad949-2c86-4b34-bcde-fc15ae0c2c86",
+              "workspaceLocation": {
+                "x": 0,
+                "y": 0
+              },
+              "blocks": [
+                {
+                  "uniqueId": "a53ff31c-5b2a-4843-8f1d-597c58a9b90b",
+                  "typeName": "smartDesignObjectsParallaxScrollOnMouseEvent",
+                  "enabled": true,
+                  "collapsed": false,
+                  "comment": null,
+                  "location": {
+                    "x": 435,
+                    "y": 240
+                  },
+                  "inputs": [
+                    {
+                      "type": "none",
+                      "name": "default",
+                      "items": [
+                        {
+                          "type": "dropdown",
+                          "name": "id",
+                          "visible": true,
+                          "value": ""
+                        },
+                        {
+                          "type": "dropdown",
+                          "name": "eventName",
+                          "visible": true,
+                          "value": "click"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "container",
+                      "name": "block",
+                      "items": []
+                    }
+                  ]
+                },
+                {
+                  "uniqueId": "aad4e66f-60f9-45aa-a1d3-3fc1fcfb2241",
+                  "typeName": "inputButtonDesignObjectOnMouseEvent",
+                  "enabled": true,
+                  "collapsed": false,
+                  "comment": null,
+                  "location": {
+                    "x": 88,
+                    "y": 48
+                  },
+                  "inputs": [
+                    {
+                      "type": "none",
+                      "name": "default",
+                      "items": [
+                        {
+                          "type": "dropdown",
+                          "name": "id",
+                          "visible": true,
+                          "value": "button1"
+                        },
+                        {
+                          "type": "dropdown",
+                          "name": "eventName",
+                          "visible": true,
+                          "value": "click"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "container",
+                      "name": "block",
+                      "flowBlock": {
+                        "uniqueId": "2f55942a-ff8f-4b6d-b082-1fb6ed4d5a73",
+                        "typeName": "textDesignObjectSetProperty",
+                        "enabled": true,
+                        "collapsed": false,
+                        "comment": null,
+                        "location": {
+                          "x": 0,
+                          "y": 0
+                        },
+                        "flowBlock": {
+                          "uniqueId": "be677dc9-8db4-4288-9abf-7b309638b439",
+                          "typeName": "callUserFunction",
+                          "enabled": true,
+                          "collapsed": false,
+                          "comment": null,
+                          "location": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "flowBlock": {
+                            "uniqueId": "9daf4dd0-2f60-4ed2-a8b0-c1d668212200",
+                            "typeName": "callUserFunction",
+                            "enabled": true,
+                            "collapsed": false,
+                            "comment": null,
+                            "location": {
+                              "x": 0,
+                              "y": 0
+                            },
+                            "inputs": [
+                              {
+                                "type": "none",
+                                "name": "default",
+                                "items": [
+                                  {
+                                    "type": "spacer",
+                                    "name": "emptyItem",
+                                    "visible": true
+                                  },
+                                  {
+                                    "type": "button",
+                                    "name": "mutator",
+                                    "visible": true
+                                  },
+                                  {
+                                    "type": "textbox",
+                                    "name": "name",
+                                    "visible": true,
+                                    "value": "denemem2"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          "inputs": [
+                            {
+                              "type": "none",
+                              "name": "default",
+                              "items": [
+                                {
+                                  "type": "spacer",
+                                  "name": "emptyItem",
+                                  "visible": true
+                                },
+                                {
+                                  "type": "button",
+                                  "name": "mutator",
+                                  "visible": true
+                                },
+                                {
+                                  "type": "textbox",
+                                  "name": "name",
+                                  "visible": true,
+                                  "value": "deneme"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        "inputs": [
+                          {
+                            "type": "pin",
+                            "name": "default",
+                            "block": {
+                              "uniqueId": "04a29bb0-9ab9-49bb-855f-eb06ff0316c2",
+                              "typeName": "callUserFunctionForResult",
+                              "enabled": true,
+                              "collapsed": false,
+                              "comment": null,
+                              "location": {
+                                "x": 0,
+                                "y": 0
+                              },
+                              "inputs": [
+                                {
+                                  "type": "none",
+                                  "name": "default",
+                                  "items": [
+                                    {
+                                      "type": "button",
+                                      "name": "mutator",
+                                      "visible": true
+                                    },
+                                    {
+                                      "type": "textbox",
+                                      "name": "name",
+                                      "visible": true,
+                                      "value": "denemem3"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            "items": [
+                              {
+                                "type": "spacer",
+                                "name": "emptyItem",
+                                "visible": true
+                              },
+                              {
+                                "type": "dropdown",
+                                "name": "id",
+                                "visible": true,
+                                "value": "text1"
+                              },
+                              {
+                                "type": "dropdown",
+                                "name": "propertyName",
+                                "visible": true,
+                                "value": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      "items": []
+                    }
+                  ]
+                },
+                {
+                  "uniqueId": "2c0e9dc0-4a88-40ec-9459-1b7eadf15fe2",
+                  "typeName": "onUserEvent",
+                  "enabled": false,
+                  "collapsed": false,
+                  "comment": null,
+                  "location": {
+                    "x": 88,
+                    "y": 215
+                  },
+                  "inputs": [
+                    {
+                      "type": "none",
+                      "name": "default",
+                      "items": [
+                        {
+                          "type": "textbox",
+                          "name": "name",
+                          "visible": true,
+                          "value": "myFunction"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "container",
+                      "name": "block",
+                      "items": []
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "preloaderItems": [
+    {
+      "fileName": "scripts/komut.js",
+      "selected": true
+    },
+    {
+      "fileName": "scripts/Projem2.js",
+      "selected": true
+    }
+  ],
+  "settings": {
+    "browser": "Google Chrome",
+    "framesPerSecond": 24.0,
+    "outputFolder": "output",
+    "documentScriptFileName": "",
+    "imagesSourceFolder": "images",
+    "imagesTargetFolder": "img",
+    "soundsSourceFolder": "sounds",
+    "soundsTargetFolder": "sound",
+    "stylesSourceFolder": "styles",
+    "stylesTargetFolder": "css",
+    "videosSourceFolder": "videos",
+    "videosTargetFolder": "video",
+    "scriptsSourceFolder": "scripts",
+    "scriptsTargetFolder": "js",
+    "contentsTargetFolder": "resources",
+    "isAutoPlay": true,
+    "isLooping": false,
+    "backgroundColor": "#FFFFFF",
+    "hasTransparentBackground": false,
+    "deleteOutputFolderFiles": false,
+    "width": 762,
+    "height": 463,
+    "fixedWidth": false,
+    "fixedHeight": false,
+    "publisherIdentifier": "eb95320e-0fac-40df-8c48-7237212e46e8",
+    "debugMode": true,
+    "minifyScripts": false,
+    "minifyStyles": false,
+    "omitConsoleMessages": false,
+    "publishArguments": "",
+    "contentType": "interactive_exercise",
+    "title": "Projem2"
+  }
+}

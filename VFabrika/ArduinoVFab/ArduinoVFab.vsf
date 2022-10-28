@@ -1,0 +1,14 @@
+{
+  "version": "7.0.35",
+  "name": "ArduinoVFab",
+  "projects": [
+    {
+      "id": "939f8853-4d92-4e84-97e8-5a6f9f4125f1",
+      "name": "ArduinoVFab",
+      "fileName": "ArduinoVFab\\ArduinoVFab.vpf",
+      "expanded": false,
+      "unloaded": false
+    }
+  ],
+  "activeProjectId": "939f8853-4d92-4e84-97e8-5a6f9f4125f1"
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49" height="49" viewBox="0 0 49 49">
+  <g id="icon_play" transform="translate(0 0.23)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="24.5" cy="24.5" r="24.5" transform="translate(0 -0.23)" fill="#ef6811"/>
+    <path id="icon_play-2" data-name="icon_play" d="M19.893-3.937l-16.5-9.754a2.237,2.237,0,0,0-2.265-.028A2.237,2.237,0,0,0,0-11.755v19.5A2.248,2.248,0,0,0,3.394,9.684l16.5-9.75A2.248,2.248,0,0,0,21-2a2.248,2.248,0,0,0-1.105-1.935Z" transform="translate(16 26.999)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "version": "7.0.35",
+  "name": "BoslukDoldurma",
+  "projects": [
+    {
+      "id": "df1f234f-a57e-4383-a486-0d165598b051",
+      "name": "BoslukDoldurma",
+      "fileName": "BoslukDoldurma\\BoslukDoldurma.vpf",
+      "expanded": false,
+      "unloaded": false
+    }
+  ],
+  "activeProjectId": "df1f234f-a57e-4383-a486-0d165598b051"
+}

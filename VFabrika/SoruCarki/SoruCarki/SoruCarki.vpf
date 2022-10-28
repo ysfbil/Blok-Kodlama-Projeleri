@@ -1,0 +1,43 @@
+{
+  "id": "c7696139-524f-49d6-af21-3c2c595afca1",
+  "name": "SoruCarki",
+  "type": "web_template_spinning_wheel",
+  "version": "7.0.35",
+  "properties": {
+    "outputFolder": "output",
+    "deleteOutputFolder": false,
+    "currentProjectFileName": "C:\\Users\\yusuf\\Desktop\\SoruCarki\\SoruCarki\\SoruCarki.vpf",
+    "currentProjectFolder": "C:\\Users\\yusuf\\Desktop\\SoruCarki\\SoruCarki"
+  },
+  "items": [],
+  "configuration": {
+    "general": {
+      "title": "Kinematik",
+      "theme": "school",
+      "language": "turkish"
+    },
+    "header": {
+      "title": "Doğru cevap verildiğinde silme tuşuna basınız."
+    },
+    "indicator": {
+      "text": "Seçilen Soru"
+    },
+    "items": [
+      {
+        "text": "Başlangıç noktasına verilen addır."
+      },
+      {
+        "text": "Konumlar arasındaki doğrusal mesafedir."
+      },
+      {
+        "text": "Yerdeğiştirme'nin zamana oranıdır."
+      },
+      {
+        "text": "Artınca yolun süresi kısalır."
+      },
+      {
+        "text": "Hızın hızıdır."
+      }
+    ]
+  }
+}

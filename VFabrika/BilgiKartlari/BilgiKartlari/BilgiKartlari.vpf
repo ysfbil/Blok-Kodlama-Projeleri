@@ -1,0 +1,71 @@
+{
+  "id": "0cafe59e-0946-4be7-baf2-50355f2df98b",
+  "name": "BilgiKartlari",
+  "type": "web_template_matching_with_inputs",
+  "version": "7.0.35",
+  "properties": {
+    "outputFolder": "output",
+    "deleteOutputFolder": false,
+    "currentProjectFileName": "C:\\Users\\yusuf\\Desktop\\BilgiKartlari\\BilgiKartlari\\BilgiKartlari.vpf",
+    "currentProjectFolder": "C:\\Users\\yusuf\\Desktop\\BilgiKartlari\\BilgiKartlari"
+  },
+  "items": [
+    {
+      "name": "Images",
+      "type": "folder",
+      "expanded": true,
+      "items": [
+        {
+          "name": "bome.jpg",
+          "type": "file"
+        },
+        {
+          "name": "derecelisilindir.jpg",
+          "type": "file"
+        },
+        {
+          "name": "motorsuyu_bometre.jpg",
+          "type": "file"
+        },
+        {
+          "name": "terazi.jpg",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "BilgiKartlari.vpf",
+      "type": "file"
+    }
+  ],
+  "configuration": {
+    "activityName": "Kütle-Hacim-Özkütle",
+    "activityLanguage": "turkish",
+    "activityTheme": "school",
+    "general": {
+      "title": "Aşağıdaki araçların hangi fiziksel özelliği ölçerler."
+    },
+    "items": [
+      {
+        "image": "bome.jpg",
+        "text": "özkütle",
+        "hint": "Akü bomesi ile akünün sağlamlık durumu tespit edilir."
+      },
+      {
+        "image": "motorsuyu_bometre.jpg",
+        "text": "özkütle",
+        "hint": "Bu araç motor soğutma suyunun donma sıcaklığı hakkında bizlere bilgi verir."
+      },
+      {
+        "image": "derecelisilindir.jpg",
+        "text": "hacim",
+        "hint": "Sıvıların miktarını ölçmede kullanılır."
+      },
+      {
+        "image": "terazi.jpg",
+        "text": "kütle",
+        "hint": "Maddelerin miktarı hakkında bilgi verir."
+      }
+    ]
+  }
+}

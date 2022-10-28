@@ -1,0 +1,14 @@
+{
+  "version": "7.0.35",
+  "name": "SozcukAvi",
+  "projects": [
+    {
+      "id": "967ca36e-0f02-4052-b373-c56f1313554b",
+      "name": "SozcukAvi",
+      "fileName": "SozcukAvi\\SozcukAvi.vpf",
+      "expanded": false,
+      "unloaded": false
+    }
+  ],
+  "activeProjectId": "967ca36e-0f02-4052-b373-c56f1313554b"
+}

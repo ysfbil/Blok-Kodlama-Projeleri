@@ -1,0 +1,14 @@
+{
+  "version": "7.0.35",
+  "name": "EtkilesimliVideo",
+  "projects": [
+    {
+      "id": "f4d4da07-05f6-490d-ac29-6bd31a402f64",
+      "name": "EtkilesimliVideo",
+      "fileName": "EtkilesimliVideo\\EtkilesimliVideo.vpf",
+      "expanded": false,
+      "unloaded": false
+    }
+  ],
+  "activeProjectId": "f4d4da07-05f6-490d-ac29-6bd31a402f64"
+}

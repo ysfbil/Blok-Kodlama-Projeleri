@@ -1,0 +1,1158 @@
+﻿{
+  "name": "Sebit DataSet",
+  "description": "Auto generated Sebit DataSet file",
+  "properties": [
+    {
+      "name": "Signature",
+      "type": "string",
+      "value": "Sebit"
+    }
+  ],
+  "tables": [
+    {
+      "name": "FeedbackRichText",
+      "description": "",
+      "columns": [
+        {
+          "name": "id",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": true,
+          "isReadonly": false,
+          "isUnique": true,
+          "autoIncrement": true,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "soundFileName",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "text",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "isModal",
+          "type": "boolean",
+          "size": 0,
+          "defaultValue": true,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "isVisual",
+          "type": "boolean",
+          "size": 0,
+          "defaultValue": true,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "isAutoClose",
+          "type": "boolean",
+          "size": 0,
+          "defaultValue": false,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        }
+      ],
+      "properties": [
+        {
+          "name": "ObjectName",
+          "type": "string",
+          "value": "Sbt.plugins.FeedbackRichTextDataJSON"
+        },
+        {
+          "name": "Type",
+          "type": "string",
+          "value": "framework"
+        }
+      ],
+      "rows": [
+        {
+          "id": 1,
+          "soundFileName": "hpain1",
+          "text": "Tebrikler bütün soruları cevapladın...",
+          "isModal": true,
+          "isVisual": true,
+          "isAutoClose": true
+        }
+      ]
+    },
+    {
+      "name": "AnimationPopup",
+      "description": "",
+      "columns": [
+        {
+          "name": "id",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": true,
+          "isReadonly": false,
+          "isUnique": true,
+          "autoIncrement": true,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "animFileName",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "animFileExtension",
+          "type": "string",
+          "size": 0,
+          "defaultValue": ".mp4",
+          "isKey": false,
+          "isReadonly": true,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "border",
+          "type": "boolean",
+          "size": 0,
+          "defaultValue": true,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "controls",
+          "type": "boolean",
+          "size": 0,
+          "defaultValue": true,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "autoplay",
+          "type": "boolean",
+          "size": 0,
+          "defaultValue": true,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "width",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "height",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "isModal",
+          "type": "boolean",
+          "size": 0,
+          "defaultValue": true,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "isAutoClose",
+          "type": "boolean",
+          "size": 0,
+          "defaultValue": false,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "closeButton",
+          "type": "boolean",
+          "size": 0,
+          "defaultValue": true,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "animFilePath",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "video/",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        }
+      ],
+      "properties": [
+        {
+          "name": "ObjectName",
+          "type": "string",
+          "value": "Sbt.components.AnimationPopupDataJSON"
+        },
+        {
+          "name": "Type",
+          "type": "string",
+          "value": "framework"
+        }
+      ],
+      "rows": [
+        {
+          "id": 1,
+          "animFileName": "ahmo ve spinosaurus",
+          "animFileExtension": ".mp4",
+          "border": true,
+          "controls": true,
+          "autoplay": false,
+          "width": 401,
+          "height": 293,
+          "isModal": true,
+          "isAutoClose": false,
+          "closeButton": true,
+          "animFilePath": "resources/video/"
+        }
+      ]
+    },
+    {
+      "name": "Question",
+      "description": "",
+      "columns": [
+        {
+          "name": "id",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": true,
+          "isReadonly": false,
+          "isUnique": true,
+          "autoIncrement": true,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "soundFileName",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "text",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "soundFilePath",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "resources/sound/",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        }
+      ],
+      "properties": [
+        {
+          "name": "ObjectName",
+          "type": "string",
+          "value": "Sbt.plugins.QuestionDataJSON"
+        },
+        {
+          "name": "Type",
+          "type": "string",
+          "value": "framework"
+        }
+      ],
+      "rows": [
+        {
+          "id": 1,
+          "soundFileName": "",
+          "text": "Türkiyenin başkenti neresidir?",
+          "soundFilePath": ""
+        },
+        {
+          "id": 2,
+          "soundFileName": "",
+          "text": "Hangisi Ortadoğuda değildir?",
+          "soundFilePath": ""
+        },
+        {
+          "id": 3,
+          "soundFileName": "",
+          "text": "Türkiyenin en uzun sınırı hangi ülke iledir?",
+          "soundFilePath": ""
+        },
+        {
+          "id": 4,
+          "soundFileName": "",
+          "text": "Hangi ülke daha soğuktur?",
+          "soundFilePath": ""
+        }
+      ]
+    },
+    {
+      "name": "QuestionChoices",
+      "description": "",
+      "columns": [
+        {
+          "name": "id",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": true,
+          "isReadonly": false,
+          "isUnique": true,
+          "autoIncrement": true,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "part",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "text",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "keyword",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "a",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "hasAnswer",
+          "type": "boolean",
+          "size": 0,
+          "defaultValue": true,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "answerText",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "answerSoundFileName",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "answerSoundFilePath",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "resources/sound/",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        }
+      ],
+      "properties": [
+        {
+          "name": "ObjectName",
+          "type": "string",
+          "value": "Sbt.plugins.QuestionChoicesDataJSON"
+        },
+        {
+          "name": "Type",
+          "type": "string",
+          "value": "framework"
+        }
+      ],
+      "rows": [
+        {
+          "id": 1,
+          "part": 1,
+          "text": "Siirt",
+          "keyword": "a",
+          "hasAnswer": false,
+          "answerText": "",
+          "answerSoundFileName": "",
+          "answerSoundFilePath": ""
+        },
+        {
+          "id": 1,
+          "part": 2,
+          "text": "Erzurum",
+          "keyword": "b",
+          "hasAnswer": false,
+          "answerText": "",
+          "answerSoundFileName": "",
+          "answerSoundFilePath": ""
+        },
+        {
+          "id": 1,
+          "part": 3,
+          "text": "Ankara",
+          "keyword": "c",
+          "hasAnswer": false,
+          "answerText": "",
+          "answerSoundFileName": "",
+          "answerSoundFilePath": ""
+        },
+        {
+          "id": 1,
+          "part": 4,
+          "text": "Yozgat",
+          "keyword": "d",
+          "hasAnswer": false,
+          "answerText": "",
+          "answerSoundFileName": "",
+          "answerSoundFilePath": ""
+        },
+        {
+          "id": 2,
+          "part": 1,
+          "text": "Siirt",
+          "keyword": "a",
+          "hasAnswer": false,
+          "answerText": "",
+          "answerSoundFileName": "",
+          "answerSoundFilePath": ""
+        },
+        {
+          "id": 2,
+          "part": 2,
+          "text": "Türkiye",
+          "keyword": "b",
+          "hasAnswer": false,
+          "answerText": "",
+          "answerSoundFileName": "",
+          "answerSoundFilePath": ""
+        },
+        {
+          "id": 2,
+          "part": 3,
+          "text": "Britanya",
+          "keyword": "c",
+          "hasAnswer": false,
+          "answerText": "",
+          "answerSoundFileName": "",
+          "answerSoundFilePath": ""
+        },
+        {
+          "id": 2,
+          "part": 4,
+          "text": "Filistin",
+          "keyword": "d",
+          "hasAnswer": false,
+          "answerText": "",
+          "answerSoundFileName": "",
+          "answerSoundFilePath": ""
+        },
+        {
+          "id": 3,
+          "part": 1,
+          "text": "Vietnam",
+          "keyword": "a",
+          "hasAnswer": false,
+          "answerText": "",
+          "answerSoundFileName": "",
+          "answerSoundFilePath": ""
+        },
+        {
+          "id": 3,
+          "part": 2,
+          "text": "Irak",
+          "keyword": "b",
+          "hasAnswer": false,
+          "answerText": "",
+          "answerSoundFileName": "",
+          "answerSoundFilePath": ""
+        },
+        {
+          "id": 3,
+          "part": 3,
+          "text": "İran",
+          "keyword": "c",
+          "hasAnswer": false,
+          "answerText": "",
+          "answerSoundFileName": "",
+          "answerSoundFilePath": ""
+        },
+        {
+          "id": 3,
+          "part": 4,
+          "text": "Suriye",
+          "keyword": "d",
+          "hasAnswer": false,
+          "answerText": "",
+          "answerSoundFileName": "",
+          "answerSoundFilePath": ""
+        },
+        {
+          "id": 4,
+          "part": 1,
+          "text": "Norveç",
+          "keyword": "a",
+          "hasAnswer": false,
+          "answerText": "",
+          "answerSoundFileName": "",
+          "answerSoundFilePath": ""
+        },
+        {
+          "id": 4,
+          "part": 2,
+          "text": "Türkiye",
+          "keyword": "b",
+          "hasAnswer": false,
+          "answerText": "",
+          "answerSoundFileName": "",
+          "answerSoundFilePath": ""
+        },
+        {
+          "id": 4,
+          "part": 3,
+          "text": "Almanya",
+          "keyword": "c",
+          "hasAnswer": false,
+          "answerText": "",
+          "answerSoundFileName": "",
+          "answerSoundFilePath": ""
+        },
+        {
+          "id": 4,
+          "part": 4,
+          "text": "Hicaz",
+          "keyword": "d",
+          "hasAnswer": false,
+          "answerText": "",
+          "answerSoundFileName": "",
+          "answerSoundFilePath": ""
+        }
+      ]
+    },
+    {
+      "name": "Hypothesis",
+      "description": "",
+      "columns": [
+        {
+          "name": "id",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": true,
+          "isReadonly": false,
+          "isUnique": true,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "questionText",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "predictionText",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "width",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "height",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "positionX",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "positionY",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        }
+      ],
+      "properties": [],
+      "rows": [
+        {
+          "id": 1,
+          "questionText": "Neden cisimler yere düşerler?",
+          "predictionText": "Dünya çekirdeğinin manyetik etkisi nedeniyle. Bu hipotezi test etmek için Deney 1 olarak bir mıknatıs alıp hangi cisimleri çekebildiğine bakarız. \r\nDeney 1 sonuçları: {{combo1}}\r\n\r\nDünyanın çekim kuvvetini anlamak için {{combo2}} cisimlerini alır ve yere düşme durumlarını inceleriz.",
+          "width": 700,
+          "height": 340,
+          "positionX": -1,
+          "positionY": -1
+        }
+      ]
+    },
+    {
+      "name": "HypothesisControls",
+      "description": "",
+      "columns": [
+        {
+          "name": "id",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": true,
+          "isReadonly": false,
+          "isUnique": true,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "hypothesisId",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "name",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        }
+      ],
+      "properties": [],
+      "rows": [
+        {
+          "id": 0,
+          "hypothesisId": 1,
+          "name": "combo1"
+        },
+        {
+          "id": 1,
+          "hypothesisId": 1,
+          "name": "combo2"
+        }
+      ]
+    },
+    {
+      "name": "HypothesisControlItems",
+      "description": "",
+      "columns": [
+        {
+          "name": "id",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": true,
+          "isReadonly": false,
+          "isUnique": true,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "hypothesisControlId",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "text",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "value",
+          "type": "string",
+          "size": 0,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        }
+      ],
+      "properties": [],
+      "rows": [
+        {
+          "id": 0,
+          "hypothesisControlId": 0,
+          "text": "Tahta",
+          "value": "1"
+        },
+        {
+          "id": 1,
+          "hypothesisControlId": 0,
+          "text": "Demir",
+          "value": "0"
+        },
+        {
+          "id": 2,
+          "hypothesisControlId": 0,
+          "text": "Plastik",
+          "value": "2"
+        },
+        {
+          "id": 0,
+          "hypothesisControlId": 1,
+          "text": "Tahta",
+          "value": "1"
+        },
+        {
+          "id": 1,
+          "hypothesisControlId": 1,
+          "text": "Demir",
+          "value": "3"
+        },
+        {
+          "id": 2,
+          "hypothesisControlId": 1,
+          "text": "Plastik",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "name": "SkipIntro",
+      "description": "",
+      "columns": [
+        {
+          "name": "type",
+          "type": "string",
+          "size": 255,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": true,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": true,
+          "options": [
+            {
+              "name": "Intro",
+              "value": "Sbt.plugins.SkipIntro.Type.INTRO"
+            },
+            {
+              "name": "Animation",
+              "value": "Sbt.plugins.SkipIntro.Type.ANIM"
+            }
+          ],
+          "properties": [
+            {
+              "name": "IsRawColumn",
+              "type": "boolean",
+              "value": true
+            }
+          ]
+        },
+        {
+          "name": "fileName",
+          "type": "string",
+          "size": 255,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "filePath",
+          "type": "string",
+          "size": 255,
+          "defaultValue": "",
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "width",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        },
+        {
+          "name": "height",
+          "type": "integer",
+          "size": 0,
+          "defaultValue": 0,
+          "isKey": false,
+          "isReadonly": false,
+          "isUnique": false,
+          "autoIncrement": false,
+          "autoIncrementSeed": 1,
+          "autoIncrementStep": 1,
+          "isOption": false,
+          "options": [],
+          "properties": []
+        }
+      ],
+      "properties": [
+        {
+          "name": "Type",
+          "type": "string",
+          "value": "framework"
+        },
+        {
+          "name": "ObjectName",
+          "type": "string",
+          "value": "Sbt.plugins.SkipIntroDataJSON"
+        }
+      ],
+      "rows": [
+        {
+          "type": "Sbt.plugins.SkipIntro.Type.INTRO",
+          "fileName": "dino vs finn",
+          "filePath": "resources/video/",
+          "width": 762,
+          "height": 463
+        }
+      ]
+    }
+  ]
+}

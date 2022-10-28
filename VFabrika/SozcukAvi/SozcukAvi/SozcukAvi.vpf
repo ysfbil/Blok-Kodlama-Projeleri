@@ -1,0 +1,50 @@
+{
+  "id": "967ca36e-0f02-4052-b373-c56f1313554b",
+  "name": "SozcukAvi",
+  "type": "web_template_crossword",
+  "version": "7.0.35",
+  "properties": {
+    "outputFolder": "output",
+    "deleteOutputFolder": false,
+    "currentProjectFileName": "D:\\Belgelerim\\VFabrika\\SozcukAvi\\SozcukAvi\\SozcukAvi.vpf",
+    "currentProjectFolder": "D:\\Belgelerim\\VFabrika\\SozcukAvi\\SozcukAvi"
+  },
+  "items": [],
+  "configuration": {
+    "general": {
+      "title": "Optik Terimleri",
+      "theme": "school",
+      "language": "turkish",
+      "showHints": true
+    },
+    "header": {
+      "title": "Optik Terimleri Yönerge Metni"
+    },
+    "items": [
+      {
+        "text": "Büyüteçlerde de kullanılan mercek türü?",
+        "correctAnswer": "yakınsak"
+      },
+      {
+        "text": "Gelen ışınları dağıtarak asal eksenden uzaklaştıran mercek türü",
+        "correctAnswer": "ıraksak"
+      },
+      {
+        "text": "Ters ve gerçek görüntü oluşturabilen ayna türü",
+        "correctAnswer": "çukur"
+      },
+      {
+        "text": "Daha geniş bir alanı görmemizi sağlayan ayna türü",
+        "correctAnswer": "tümsek"
+      },
+      {
+        "text": "Simetrik görüntü veren optik araç",
+        "correctAnswer": "düzlemayna"
+      },
+      {
+        "text": "Beyaz ışığı renklerine ayıran optik araç",
+        "correctAnswer": "prizma"
+      }
+    ]
+  }
+}

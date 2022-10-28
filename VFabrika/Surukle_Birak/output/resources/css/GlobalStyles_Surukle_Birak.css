@@ -1,0 +1,104 @@
+/* Base css class for design objects */
+.vfabrika-default-design-object-style {
+	position: absolute;
+}
+
+.vfabrika-default-design-object-style:hover {
+	position: absolute;
+}
+
+.vfabrika-default-design-object-style:active {
+	position: absolute;
+}
+
+.vfabrika-default-design-object-style:disabled {
+	position: absolute;
+}
+
+/* contentDesignObject - content1 */
+.vfabrika-design-object-style_5adec10f-6c30-4b08-825c-999ad8786b77_a622d5e4-3154-4e7e-b856-cc189bf747bf_0a2e3567-b963-4d21-9b1a-949243b6b915 {
+	left: 0px;
+	top: 0px;
+	width: 762px;
+	height: 463px;
+}
+
+/* contentDesignObject - birakilabilirNesne1 */
+.vfabrika-design-object-style_5adec10f-6c30-4b08-825c-999ad8786b77_a622d5e4-3154-4e7e-b856-cc189bf747bf_d07be5be-c568-4d64-8b5f-5ad343e3d006 {
+	left: 646px;
+	top: 129px;
+	width: 100px;
+	height: 100px;
+	border: 4px solid #C00000;	
+}
+
+/* textDesignObject - suruklenebilirNesne1_dogru */
+.vfabrika-design-object-style_5adec10f-6c30-4b08-825c-999ad8786b77_a622d5e4-3154-4e7e-b856-cc189bf747bf_637444e2-6e47-4439-8125-52413b701a48 {
+	left: 646px;
+	top: 129px;
+	width: 100px;
+	height: 100px;
+	border: 4px solid #C00000;	
+}
+
+/* textDesignObject - suruklenebilirNesne1 */
+.vfabrika-design-object-style_5adec10f-6c30-4b08-825c-999ad8786b77_a622d5e4-3154-4e7e-b856-cc189bf747bf_05bb7877-e4bb-4005-b796-17bd6d3f69cf {
+	left: 16px;
+	top: 129px;
+	width: 100px;
+	height: 100px;
+	border: 4px solid #C00000;	
+}
+
+/* contentDesignObject - birakilabilirNesne2 */
+.vfabrika-design-object-style_5adec10f-6c30-4b08-825c-999ad8786b77_a622d5e4-3154-4e7e-b856-cc189bf747bf_d85237e9-2b4c-443b-9ebf-897de141249f {
+	left: 646px;
+	top: 234px;
+	width: 100px;
+	height: 100px;
+	border: 4px solid #C00000;	
+}
+
+/* textDesignObject - suruklenebilirNesne2_dogru */
+.vfabrika-design-object-style_5adec10f-6c30-4b08-825c-999ad8786b77_a622d5e4-3154-4e7e-b856-cc189bf747bf_900ffb65-9000-471e-b867-48a94ee44561 {
+	left: 646px;
+	top: 234px;
+	width: 100px;
+	height: 100px;
+	border: 4px solid #C00000;	
+}
+
+/* textDesignObject - suruklenebilirNesne2 */
+.vfabrika-design-object-style_5adec10f-6c30-4b08-825c-999ad8786b77_a622d5e4-3154-4e7e-b856-cc189bf747bf_a320a02c-e212-470c-bb6e-03970e579df2 {
+	left: 16px;
+	top: 234px;
+	width: 100px;
+	height: 100px;
+	border: 4px solid #C00000;	
+}
+
+/* inputButtonDesignObject - oyunBitti */
+.vfabrika-design-object-style_5adec10f-6c30-4b08-825c-999ad8786b77_a622d5e4-3154-4e7e-b856-cc189bf747bf_9abb40a1-3825-4196-8e6f-5c843805acf6 {
+	left: 331px;
+	top: 414px;
+	width: 125px;
+	height: 25px;
+}
+
+/* textDesignObject - sonucMetin */
+.vfabrika-design-object-style_5adec10f-6c30-4b08-825c-999ad8786b77_21c6c375-9c31-424f-b116-661938b0877e_0fc5213a-2af3-49ea-8bbe-d75b19048db4 {
+	left: 48px;
+	top: 48px;
+	width: 140px;
+	height: 30px;
+	border: 4px solid #C00000;	
+}
+
+/* inputButtonDesignObject - yenidenBaslat */
+.vfabrika-design-object-style_5adec10f-6c30-4b08-825c-999ad8786b77_21c6c375-9c31-424f-b116-661938b0877e_339f5543-6a4f-477c-913b-570c2ffa2be0 {
+	left: 626px;
+	top: 422px;
+	width: 120px;
+	height: 25px;
+}
+

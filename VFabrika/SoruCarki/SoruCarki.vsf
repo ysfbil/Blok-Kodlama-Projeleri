@@ -1,0 +1,14 @@
+{
+  "version": "7.0.35",
+  "name": "SoruCarki",
+  "projects": [
+    {
+      "id": "c7696139-524f-49d6-af21-3c2c595afca1",
+      "name": "SoruCarki",
+      "fileName": "SoruCarki\\SoruCarki.vpf",
+      "expanded": false,
+      "unloaded": false
+    }
+  ],
+  "activeProjectId": "c7696139-524f-49d6-af21-3c2c595afca1"
+}

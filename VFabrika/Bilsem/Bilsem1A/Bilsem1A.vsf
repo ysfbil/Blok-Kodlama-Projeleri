@@ -1,0 +1,14 @@
+{
+  "version": "7.0.35",
+  "name": "Bilsem1A",
+  "projects": [
+    {
+      "id": "ca6de436-176e-46ae-aa06-42d4ef5944a5",
+      "name": "Bilsem1A",
+      "fileName": "Bilsem1A\\Bilsem1A.vpf",
+      "expanded": false,
+      "unloaded": false
+    }
+  ],
+  "activeProjectId": "ca6de436-176e-46ae-aa06-42d4ef5944a5"
+}

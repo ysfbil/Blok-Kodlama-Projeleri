@@ -1,0 +1,91 @@
+/* Base css class for design objects */
+.vfabrika-default-design-object-style {
+	position: absolute;
+}
+
+.vfabrika-default-design-object-style:hover {
+	position: absolute;
+}
+
+.vfabrika-default-design-object-style:active {
+	position: absolute;
+}
+
+.vfabrika-default-design-object-style:disabled {
+	position: absolute;
+}
+
+/* inputButtonDesignObject - button1 */
+.vfabrika-design-object-style_5d48fc41-65b4-42a7-b40f-6f37b4473697_b0c23470-8dbd-4b7c-b068-4471972e58a6_734b5bfd-73e0-4d48-b266-def17acbd900 {
+	left: 272px;
+	top: 175px;
+	width: 225px;
+	height: 74px;
+	font-size: 24px;	
+}
+
+/* inputButtonDesignObject - button4 */
+.vfabrika-design-object-style_5d48fc41-65b4-42a7-b40f-6f37b4473697_b0c23470-8dbd-4b7c-b068-4471972e58a6_c9060965-862c-4090-a2df-3bd58038e823 {
+	left: 272px;
+	top: 267px;
+	width: 222px;
+	height: 71px;
+}
+
+/* animationPopupDesignObject - animationPopup1 */
+.vfabrika-design-object-style_5d48fc41-65b4-42a7-b40f-6f37b4473697_4c621de8-794e-432f-8586-481470e8aa3b_15cb8668-3fe6-4fe9-b40a-096aa11f44f7 {
+	left: 190px;
+	top: 66px;
+	width: 401px;
+	height: 293px;
+}
+
+/* inputButtonDesignObject - button2 */
+.vfabrika-design-object-style_5d48fc41-65b4-42a7-b40f-6f37b4473697_4c621de8-794e-432f-8586-481470e8aa3b_c437b0e7-c8a6-4839-8d49-14a7a3f27e08 {
+	left: 41px;
+	top: 51px;
+	width: 100px;
+	height: 25px;
+}
+
+/* inputButtonDesignObject - button3 */
+.vfabrika-design-object-style_5d48fc41-65b4-42a7-b40f-6f37b4473697_4c621de8-794e-432f-8586-481470e8aa3b_e7bbe5a2-586c-4955-9915-f23f11cdc4d3 {
+	left: 41px;
+	top: 97px;
+	width: 100px;
+	height: 25px;
+}
+
+/* textDesignObject - text2 */
+.vfabrika-design-object-style_5d48fc41-65b4-42a7-b40f-6f37b4473697_4c621de8-794e-432f-8586-481470e8aa3b_e5b45e7a-97a3-4936-b21d-824fd4a2d934 {
+	left: 13px;
+	top: 20px;
+	width: 100px;
+	height: 20px;
+}
+
+/* textDesignObject - text1 */
+.vfabrika-design-object-style_5d48fc41-65b4-42a7-b40f-6f37b4473697_010dcae9-28b3-40ea-ba20-dd4ae2c5b186_1b2fb2ce-8c91-4e88-90f9-ad4e2cc79805 {
+	left: 0px;
+	top: 343px;
+	width: 657px;
+	height: 45px;
+	font-size: 9pt;	
+}
+
+/* tableDesignObject - table1 */
+.vfabrika-design-object-style_5d48fc41-65b4-42a7-b40f-6f37b4473697_010dcae9-28b3-40ea-ba20-dd4ae2c5b186_d14d9cea-a517-4a4b-a5b7-c21edab06daa {
+	left: 0px;
+	top: 387px;
+	width: 657px;
+	height: 74px;
+}
+
+/* inputButtonDesignObject - button5 */
+.vfabrika-design-object-style_5d48fc41-65b4-42a7-b40f-6f37b4473697_010dcae9-28b3-40ea-ba20-dd4ae2c5b186_56386f58-f8f0-4bc4-859c-508d68400fda {
+	left: 656px;
+	top: 387px;
+	width: 47px;
+	height: 25px;
+}
+

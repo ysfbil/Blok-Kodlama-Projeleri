@@ -1,0 +1,43 @@
+{
+  "id": "48eed10a-5a95-433b-92d4-4a4a61321492",
+  "name": "BoslukDoldurma2",
+  "type": "web_template_fill_in_the_blanks_with_inputs",
+  "version": "7.0.35",
+  "properties": {
+    "outputFolder": "output",
+    "deleteOutputFolder": false,
+    "currentProjectFileName": "C:\\Users\\yusuf\\Desktop\\BoslukDoldurma2\\BoslukDoldurma2\\BoslukDoldurma2.vpf",
+    "currentProjectFolder": "C:\\Users\\yusuf\\Desktop\\BoslukDoldurma2\\BoslukDoldurma2"
+  },
+  "items": [],
+  "configuration": {
+    "general": {
+      "title": "Kaldırma Kuvveti",
+      "theme": "school",
+      "language": "turkish"
+    },
+    "header": {
+      "title": "Kaldırma Kuvveti Yönergesi"
+    },
+    "data": {
+      "question": {
+        "text": "Cismin yoğunluğu sınınınkinden küçük ise cisim [answer1].\r\nCismin yoğunluğu sınınınkinden büyük ise cisim [answer2].\r\nCismin yoğunluğu sınınınkine eşit ise cisim [answer3].\r\n\r\n",
+        "sound": null
+      },
+      "answers": [
+        {
+          "name": "answer1",
+          "value": "yüzer"
+        },
+        {
+          "name": "answer2",
+          "value": "batar"
+        },
+        {
+          "name": "answer3",
+          "value": "askıda kalır"
+        }
+      ]
+    }
+  }
+}

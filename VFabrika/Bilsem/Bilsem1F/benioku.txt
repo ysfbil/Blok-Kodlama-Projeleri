@@ -1,0 +1,15 @@
+b,d,a,c,b,b,d,d,c,d,a,a,c,c,b,c,b,e,b,d,c,b,b,b,c,c,0,c,0,a,0,d
+
+Bekleme resimlerinin cevabýný 0 yazarak cevap anahtarýný koda yerleþtiriniz.
+
+Bekleme resimlerinin sýra nosunu koda ilgili yere yazýnzý.
+
+delay1 süresini ms olarak ayarlayarak bekleme resimlerinde arzu ettiðiniz beklemeyi ayarlayýnýz.
+
+Þýklarýn yerlerini ve boyutunu her soru için özelleþtirebilirsiniz.
+
+Resim dosyalarýnýz uzantý dahil tümü küçük harf 001.png gibi isimlendirlilmelidir.
+
+Proje klasörünü sað týklayýp özelliklerden önyükleyici bilindik dosya tiplerini tara tuþuna basmayý unutmayýnýz.
+
+Soru eklerken frami kopyalama deðil görseli sað týklayýp çoklaya bas

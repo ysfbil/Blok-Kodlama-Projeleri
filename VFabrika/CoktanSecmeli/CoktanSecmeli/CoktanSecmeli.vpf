@@ -1,0 +1,65 @@
+{
+  "id": "b0f2943c-96ee-4947-a73b-7036eeeb814f",
+  "name": "CoktanSecmeli",
+  "type": "web_template_multiple_choice",
+  "version": "7.0.35",
+  "properties": {
+    "outputFolder": "output",
+    "deleteOutputFolder": false,
+    "currentProjectFileName": "C:\\Users\\yusuf\\Desktop\\CoktanSecmeli\\CoktanSecmeli\\CoktanSecmeli.vpf",
+    "currentProjectFolder": "C:\\Users\\yusuf\\Desktop\\CoktanSecmeli\\CoktanSecmeli"
+  },
+  "items": [
+    {
+      "name": "Images",
+      "type": "folder",
+      "expanded": true,
+      "items": [
+        {
+          "name": "2021-02-28_161142.png",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "CoktanSecmeli.vpf",
+      "type": "file"
+    }
+  ],
+  "configuration": {
+    "general": {
+      "title": "Fiziğin Doğası",
+      "theme": "school",
+      "language": "turkish"
+    },
+    "header": {
+      "title": "Yönerge"
+    },
+    "content": {
+      "image": "2021-02-28_161142.png",
+      "text": "Etkinlik metni"
+    },
+    "questions": {
+      "items": [
+        {
+          "question": "Görsele göre cevapla",
+          "choiceA": "a",
+          "choiceB": "b",
+          "choiceC": "c",
+          "choiceD": "d",
+          "choiceE": "e",
+          "answer": "a"
+        },
+        {
+          "question": "soru2",
+          "choiceA": "a",
+          "choiceB": "b",
+          "choiceC": "c",
+          "choiceD": "d",
+          "choiceE": "e",
+          "answer": "a"
+        }
+      ]
+    }
+  }
+}

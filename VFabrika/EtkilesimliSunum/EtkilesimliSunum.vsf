@@ -1,0 +1,14 @@
+{
+  "version": "7.0.35",
+  "name": "EtkilesimliSunum",
+  "projects": [
+    {
+      "id": "306dc80a-7e32-4da4-83f3-b1d4c3de8bc7",
+      "name": "EtkilesimliSunum",
+      "fileName": "EtkilesimliSunum\\EtkilesimliSunum.vpf",
+      "expanded": false,
+      "unloaded": false
+    }
+  ],
+  "activeProjectId": "306dc80a-7e32-4da4-83f3-b1d4c3de8bc7"
+}

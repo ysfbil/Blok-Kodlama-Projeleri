@@ -1,0 +1,1510 @@
+{
+  "version": "6.8.23",
+  "name": "InteraktifEtkinligim",
+  "solution": {},
+  "timeline": {
+    "frameIndex": 0,
+    "layerIndex": 0,
+    "layers": [
+      {
+        "uniqueId": "717c90e9-8839-45b7-9bc6-9dcd5778cabb",
+        "name": "Katman 2",
+        "selected": true,
+        "visible": true,
+        "locked": false,
+        "keyframes": [
+          {
+            "uniqueId": "05571939-12d4-4c0b-a5d0-6961ace1e910",
+            "motionTween": false,
+            "soundUrl": "",
+            "rotationDirection": "clockwise",
+            "frameCount": 1,
+            "easingFunction": "linear",
+            "designObjects": [
+              {
+                "typeName": "highlightDesignObject",
+                "id": "highlight2",
+                "uniqueId": "f7805ba9-9adf-46fc-bbe7-7c9dfb6b5125",
+                "enabled": true,
+                "location": {
+                  "x": 573,
+                  "y": 111
+                },
+                "size": {
+                  "width": 66,
+                  "height": 67
+                },
+                "alpha": 100,
+                "visible": true,
+                "className": "",
+                "pivotLocation": {
+                  "x": 33,
+                  "y": 33
+                },
+                "currentPivotLocation": {
+                  "x": 50,
+                  "y": 50
+                },
+                "isVisual": true,
+                "highlightOrientation": "all",
+                "highlightColor": "black",
+                "highlightType": "drag",
+                "customFramePerSecond": 0,
+                "customImageCount": 0,
+                "customImageUrl": ""
+              },
+              {
+                "typeName": "highlightDesignObject",
+                "id": "highlight3",
+                "uniqueId": "e60810f6-9e82-4dfe-8b84-24af56dd31bd",
+                "enabled": true,
+                "location": {
+                  "x": 243,
+                  "y": 142
+                },
+                "size": {
+                  "width": 50,
+                  "height": 37
+                },
+                "alpha": 100,
+                "visible": true,
+                "className": "",
+                "pivotLocation": {
+                  "x": 25,
+                  "y": 18
+                },
+                "currentPivotLocation": {
+                  "x": 50,
+                  "y": 50
+                },
+                "isVisual": true,
+                "highlightOrientation": "all",
+                "highlightColor": "black",
+                "highlightType": "swipe",
+                "customFramePerSecond": 0,
+                "customImageCount": 0,
+                "customImageUrl": ""
+              },
+              {
+                "typeName": "highlightDesignObject",
+                "id": "highlight4",
+                "uniqueId": "05edce1b-2173-43bc-b00c-dcf85535389b",
+                "enabled": true,
+                "location": {
+                  "x": 271,
+                  "y": 56
+                },
+                "size": {
+                  "width": 70,
+                  "height": 60
+                },
+                "alpha": 100,
+                "visible": true,
+                "className": "",
+                "pivotLocation": {
+                  "x": 35,
+                  "y": 28
+                },
+                "currentPivotLocation": {
+                  "x": 35,
+                  "y": 28
+                },
+                "isVisual": true,
+                "highlightOrientation": "all",
+                "highlightColor": "black",
+                "highlightType": "custom",
+                "customFramePerSecond": 1,
+                "customImageCount": 1,
+                "customImageUrl": ".\\images\\kastam.png"
+              },
+              {
+                "typeName": "imageDesignObject",
+                "id": "image3",
+                "uniqueId": "58bdf43b-279e-4abc-af1f-8d48ec760f42",
+                "enabled": true,
+                "location": {
+                  "x": 270,
+                  "y": 55
+                },
+                "size": {
+                  "width": 72,
+                  "height": 62
+                },
+                "alpha": 0,
+                "visible": true,
+                "isDraggable": false,
+                "revertDragging": "true",
+                "isDroppable": false,
+                "useHandCursor": true,
+                "className": "",
+                "rotation": 0.0,
+                "pivotLocation": {
+                  "x": 36,
+                  "y": 31
+                },
+                "currentPivotLocation": {
+                  "x": 50,
+                  "y": 50
+                },
+                "isVisual": true,
+                "highlightBehavior": false,
+                "imageUrl": ".\\images\\kastam.png",
+                "spriteSize": {
+                  "width": 67,
+                  "height": 56
+                },
+                "isSprite": false,
+                "spriteFrameCount": 0,
+                "spriteSequencerType": "none",
+                "spriteInitialFrameIndex": 1,
+                "spriteFramePerSecond": 24.0,
+                "autoAnimate": false,
+                "isSpriteLooping": false,
+                "keepAspectRatio": false,
+                "resizingType": "scale"
+              },
+              {
+                "typeName": "ellipseDesignObject",
+                "id": "ellipse1",
+                "uniqueId": "e099cecd-d0fe-4ed7-955f-d2294686be8c",
+                "enabled": true,
+                "location": {
+                  "x": 97,
+                  "y": 87
+                },
+                "size": {
+                  "width": 54,
+                  "height": 14
+                },
+                "alpha": 0,
+                "visible": true,
+                "isDraggable": false,
+                "revertDragging": "true",
+                "isDroppable": false,
+                "useHandCursor": true,
+                "className": "",
+                "rotation": 17.33,
+                "pivotLocation": {
+                  "x": 27,
+                  "y": 7
+                },
+                "currentPivotLocation": {
+                  "x": 27,
+                  "y": 7
+                },
+                "isVisual": true,
+                "fillColor": "#5F9EA0",
+                "strokeColor": "Gray",
+                "strokeThickness": 0.0,
+                "highlightBehavior": true,
+                "highlightSize": {
+                  "highlightWidth": 40,
+                  "highlightHeight": 10
+                }
+              },
+              {
+                "typeName": "textDesignObject",
+                "id": "text1",
+                "uniqueId": "8b3fbb79-4bc2-4181-bbc2-3234f39b55e4",
+                "enabled": true,
+                "location": {
+                  "x": 108,
+                  "y": 42
+                },
+                "size": {
+                  "width": 161,
+                  "height": 20
+                },
+                "alpha": 100,
+                "visible": true,
+                "isDraggable": false,
+                "revertDragging": "true",
+                "isDroppable": false,
+                "useHandCursor": false,
+                "className": "",
+                "rotation": 0.0,
+                "pivotLocation": {
+                  "x": 81,
+                  "y": 10
+                },
+                "currentPivotLocation": {
+                  "x": 81,
+                  "y": 10
+                },
+                "isVisual": true,
+                "highlightBehavior": true,
+                "clippingBehavior": "clip",
+                "text": "{\\rtf1\\deff0{\\fonttbl{\\f0 Calibri;}{\\f1\\fcharset162 Arial Unicode MS;}}{\\colortbl ;\\red0\\green0\\blue255 ;}{\\*\\defchp \\fs22}{\\stylesheet {\\ql\\fs22 Normal;}{\\*\\cs1\\fs22 Default Paragraph Font;}{\\*\\cs2\\sbasedon1\\fs22 Line Number;}{\\*\\cs3\\ul\\fs22\\cf1 Hyperlink;}{\\*\\ts4\\tsrowd\\fs22\\ql\\tscellpaddfl3\\tscellpaddl108\\tscellpaddfb3\\tscellpaddfr3\\tscellpaddr108\\tscellpaddft3\\tsvertalt\\cltxlrtb Normal Table;}{\\*\\ts5\\tsrowd\\sbasedon4\\fs22\\ql\\trbrdrt\\brdrs\\brdrw10\\trbrdrl\\brdrs\\brdrw10\\trbrdrb\\brdrs\\brdrw10\\trbrdrr\\brdrs\\brdrw10\\trbrdrh\\brdrs\\brdrw10\\trbrdrv\\brdrs\\brdrw10\\tscellpaddfl3\\tscellpaddl108\\tscellpaddfr3\\tscellpaddr108\\tsvertalt\\cltxlrtb Table Simple 1;}}{\\*\\listoverridetable}{\\info{\\creatim\\yr2019\\mo1\\dy7\\hr3\\min18}{\\version1}}\\nouicompat\\splytwnine\\htmautsp\\sectd\\pard\\plain\\ql{\\lang1055\\langfe1055\\f1\\fs22\\cf0 Klavyeden Yaz\\u305\\'fd Yaz\\u305\\'fdn\\u305\\'fdz}\\f1\\fs22\\par{\\*\\themedata \r\n504b03041400020008000000210201159325ae000000270100000b0000005f72656c732f2e72656c738d8f310ec2300c45af1279a76e1910424dbbb07460415c204a9d34a24da224457036068ec415c8d82206164b5ffe7efffbfd7cd5ed7d1ad98d4234\r\nce72a88a121859e97a63358739a9cd1edaa63ed3285276c4c1f8c8f2898d1c8694fc0131ca8126110be7c9e68d72611229cba0d10b79159a705b963b0c4b06ac99aceb3984aeaf805d1e9efe613ba58ca4a393f34436fd88f87264b2089a12879499848b\r\n791236b70c454e00864d8dab779b0f504b0304140002000800000021027f624aeb730000007b0000001c0000007468656d652f7468656d652f7468656d654d616e616765722e786d6c0d8cc10d83300c005789fc2f4e7954554460820e61810991888392\r\nb465b73e3a5257a89fa7d3ddeff31da633ede6c5a5c62c1eae9d05c332e7254af0f06cebe50ed338906b1b277e9050e062b491eac8c3d6dae110ebac966a970f16756b2e899a6209b8147aeb2bedd85b7bc34451c0e0f807504b03041400020008000000\r\n21020a5d705ea60000000c010000270000007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c738dcf3d0ec2300c05e0ab44dea95b068450d32e2c5d11178852278d687e94a408cec6c091b8021113951818\r\n9fecf7597e3d9e6d7fb333bb524cc63b0e4d55032327fd689ce6b064b5d943dfb5279a452e1b693221b1527189c39473382026399115a9f2815c99281fadc825468d41c88bd084dbbade61fc36606db261e41087b10176be07fac7f64a1949472f174b2e\r\nff3881b974a980226aca1c3eb1a90a030cbb16573f756f504b030414000200080000002102948fae26af050000c51b0000160000007468656d652f7468656d652f7468656d65312e786d6ced594f8fdb4414ff2a23df5bc7899d66574dab4d3669a1dd76\r\nb51b8a7a9c38137b9ab1c79a99ec3637d41e919010057141e2c60101955a8903457c98852228d27e059e1d271e27e3ed6ebb15203687c433febdf77b7fe63dcf38c73ffd72f5fac388a1032224e571db722ed72c44629f8f681cb4ada91a5f6a59d7af5d\r\nc59b2a241141008ee5266e5ba152c9a66d4b1fa6b1bccc1312c3bd311711563014813d12f8109444ccaed76a4d3bc234b6508c23d2b6ee8ec7d4276890aab496ca7b0cbe6225d3099f897d3f63d42532ec68e2a43f7226bb4ca003ccda16f08cf8e1803c\r\n5416b2af5db59720a62ab00b5c0e184dea194e04c325d0e9bb1b57b60b85f5b9c27560afd7ebf69c426386c0be0fbe386b60b7df723a4bad1a6a7eb9aebd5bf36aee8a80c6d05813d8e8743ade4659a05108b86b02ad5ad3ddaa9705dc42c05bf7a1b3d5\r\ned36cb025e21d05c13e85fd968ba2b02192a64349eacc16bf0e9f717f02566ccd94d23be05f8566d812f60b6b68ee60a6255b5aa22fc808b3e00b22c634563a4660919631f705d1c0d05c51903de2458bb95cff9727d2ea543d21734516debfd04c3f22f\r\n30c72fbe3b7ef10c1dbf787af4e8f9d1a31f8f1e3f3e7af48349f2268e035df2d5379ffef5d547e8cf675fbf7af2798580d4057efbfee35f7ffeac02a974e4cb2f9efefefce9cb2f3ff9e3db2726fc96c0431d3fa01191e80e39447b3c4afd335090a138\r\na3c820c4b4248243809a903d15969077669819811d528ee13d015dc088bc317d50b2773f1453454dc85b615442ee70ce3a5c987dba95d1693e4de3a0825f4c75e01ec60746faee4a967bd3045636352aed86a464ea2e83c4e380c444a1f41e9f106292bb\r\n4f6929be3bd4175cf2b142f729ea606a0ecc800e9559ea268d204133a38d90f5528476eea10e6746826d72508642856066544a58299a37f054e1c86c358e980ebd8d556834747f26fc52e0a582a4078471d41b11298d4277c5ac64f22d0c2dcabc0276d8\r\n2c2a4385a21323f436e65c876ef34937c45162b69bc6a10e7e4f4e60c562b4cb95d90e5eae99740c09c17175e6ef51a2ce58ec1fd020342f96f4ce54186b84f0728dced8189378f10028b5f288c627f57546a1b15ff4f595bebe050f3b633dad76f34ae0\r\n7fb4876fe369bc4bd23ab968e1172dfca2859f50e1efa27117bddad677eb999ea872eb3ea68cedab1923b765d6e525b838eac36436c88496478524844b6b4e57c2050267d74870f52155e17e8813a071328640e6aa0389122ee1846255eace8eb3149cce\r\ne6bcf42c6365919058edf0d17cba515bccdb9a9a6c14489da8912a382d59e3cadb913973e029d91ccfcce69dc8666bd184fa41387dcde034eb736a58299891511af7b982455ace3d4532c42392e7c8313ae2344e19b6d6eba3a6b16d34de8eed3449d2e9\r\ndc0a3aef1cb2545bcb92bd5e8e2c2e8fd02158e5d53d0bf938695b63d894c16594803e99b62bcc82b86df92a77e5b5c5bceab079593ab54a874b1489906a1bcb702e95ddca85585cd85ff7dc340ee7e380a11b9dce8a46cbf907adb057534bc663e2ab8a\r\n996298dfe35345c47e383a444336157b18ec76e7ab6b44253c2bea8b81800a75f38557aefcbc0a565f1de5d5815912e2bc27b5b4dccfe1d9f5d2866ca4996757d8fe86ae34ced115efffeb4aba7261c3db18652733d806088cd235dab6b85021872e9484\r\nd4ef0bd838645c601782b2484d422c7dbb9dda4a0e8abe35d7316f7241a8f6688004854ea74241c8aecafd7c8d32a7ae3f5f178af23eb3345726f3df2139206c90566f33f5df42e1a29be481c870ab49b34dd5350cfaffe29d8f5bb1f339797b5010b967\r\nd98bb85ad3d71e051b6f67c2191fb575b3c775efd48fda040e2c28fd82c64d85cf8afded80ef41f6d172478960215e6ae5e5b79c1c82cd2dcdb954d5bbdd4615296855e4fb3c379f5ab01b15c13e99eecd83ed1962ed9d1c6a7bbd446ded20938dd6fef8\r\ne2c307c0bd0d07a42953327f31f5108ea7ddc53f19a0283f2f65c2d7fe06504b030414000200080000002102e9278183ee00000010020000130000005b436f6e74656e745f54797065735d2e786d6cad914d4ec3301085af62795bc54e5920849274012c\r\nf959708191334e2ce21fd993aa9c8d0547e20a4cd382102a48486c2cd9efcdfb66c66f2fafcd66e727b1c55c5c0cad5cab5a0a0c26f62e0cad9cc9561772d3358fcf098b606b28ad1c89d2a5d6c58ce8a1a89830b06263f6407ccd834e609e60407d56d7\r\ne7dac44018a8a27d86ec9a6bb4304f246e76fc7cc0669c8a145707e39ed54a486972068875bd0dfd374a752428ae5c3c6574a9acd820853e8958a41f091f85f7bc89ec7a140f90e90e3cdb34f198f8f55cabdfc34eb41bad7506fb6866cf256a8959fd09\r\n7a0b81e7cdff833e867d76a097ffedde01504b010214001400020008000000210201159325ae000000270100000b00000000000000000000000000000000005f72656c732f2e72656c73504b01021400140002000800000021027f624aeb730000007b00\r\n00001c00000000000000000000000000d70000007468656d652f7468656d652f7468656d654d616e616765722e786d6c504b01021400140002000800000021020a5d705ea60000000c0100002700000000000000000000000000840100007468656d652f\r\n7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b0102140014000200080000002102948fae26af050000c51b000016000000000000000000000000006f0200007468656d652f7468656d652f7468656d65312e786d\r\n6c504b0102140014000200080000002102e9278183ee000000100200001300000000000000000000000000520800005b436f6e74656e745f54797065735d2e786d6c504b050600000000050005005d010000710900000000}{\\*\\colorschememapping 3c\r\n3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d227574662d38223f3e3c613a636c724d617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f\r\n323030362f6d61696e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363656e74323d22616363656e74322220616363656e74333d2261636365\r\n6e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b22202f3e}}",
+                "highlightSize": {
+                  "highlightWidth": 75,
+                  "highlightHeight": 15
+                }
+              },
+              {
+                "typeName": "highlightDesignObject",
+                "id": "highlight5",
+                "uniqueId": "8d1cdf52-b165-48c6-a48e-9fcd9e59b1c1",
+                "enabled": true,
+                "location": {
+                  "x": 94,
+                  "y": 80
+                },
+                "size": {
+                  "width": 59,
+                  "height": 29
+                },
+                "alpha": 100,
+                "visible": true,
+                "className": "",
+                "pivotLocation": {
+                  "x": 29,
+                  "y": 15
+                },
+                "currentPivotLocation": {
+                  "x": 29,
+                  "y": 15
+                },
+                "isVisual": true,
+                "highlightOrientation": "all",
+                "highlightColor": "black",
+                "highlightType": "step",
+                "customFramePerSecond": 0,
+                "customImageCount": 0,
+                "customImageUrl": ""
+              }
+            ],
+            "blocksDiagram": {
+              "uniqueId": "bf21855e-ddef-49ab-b914-1cfd299bca18",
+              "workspaceLocation": {
+                "x": -16,
+                "y": 0
+              },
+              "blocks": [
+                {
+                  "uniqueId": "3dcc72e8-6561-40ca-a800-0fa439b0a0b7",
+                  "typeName": "onTimelineEvent",
+                  "enabled": true,
+                  "collapsed": false,
+                  "comment": null,
+                  "location": {
+                    "x": 46,
+                    "y": 136
+                  },
+                  "inputs": [
+                    {
+                      "type": "none",
+                      "name": "default",
+                      "items": [
+                        {
+                          "type": "dropdown",
+                          "name": "eventName",
+                          "visible": true,
+                          "value": "onInitialized"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "container",
+                      "name": "block",
+                      "flowBlock": {
+                        "uniqueId": "8d31b1bd-b08a-4f41-8a68-00b81c98d54e",
+                        "typeName": "textDesignObjectSetProperty",
+                        "enabled": true,
+                        "collapsed": false,
+                        "comment": null,
+                        "location": {
+                          "x": 0,
+                          "y": 0
+                        },
+                        "flowBlock": {
+                          "uniqueId": "5096b0f4-edea-4c12-9b3e-32dbf9cf20ad",
+                          "typeName": "highlightDesignObjectShow",
+                          "enabled": true,
+                          "collapsed": false,
+                          "comment": null,
+                          "location": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "flowBlock": {
+                            "uniqueId": "9ade300a-e1b9-4cfd-99c5-db56da9625d0",
+                            "typeName": "highlightDesignObjectShow",
+                            "enabled": true,
+                            "collapsed": false,
+                            "comment": null,
+                            "location": {
+                              "x": 0,
+                              "y": 0
+                            },
+                            "flowBlock": {
+                              "uniqueId": "84f44461-9f4c-482f-9868-dbc92a199eb3",
+                              "typeName": "highlightDesignObjectShow",
+                              "enabled": true,
+                              "collapsed": false,
+                              "comment": null,
+                              "location": {
+                                "x": 0,
+                                "y": 0
+                              },
+                              "flowBlock": {
+                                "uniqueId": "bc82ebbf-2f8f-402e-a3a1-4ebdb88a3a66",
+                                "typeName": "highlightDesignObjectShow",
+                                "enabled": true,
+                                "collapsed": false,
+                                "comment": null,
+                                "location": {
+                                  "x": 0,
+                                  "y": 0
+                                },
+                                "flowBlock": {
+                                  "uniqueId": "96dfbf17-4311-417e-b21b-ba4c08c51852",
+                                  "typeName": "highlightDesignObjectShow",
+                                  "enabled": true,
+                                  "collapsed": false,
+                                  "comment": null,
+                                  "location": {
+                                    "x": 0,
+                                    "y": 0
+                                  },
+                                  "inputs": [
+                                    {
+                                      "type": "none",
+                                      "name": "default",
+                                      "items": [
+                                        {
+                                          "type": "spacer",
+                                          "name": "emptyItem",
+                                          "visible": true
+                                        },
+                                        {
+                                          "type": "dropdown",
+                                          "name": "id",
+                                          "visible": true,
+                                          "value": "highlight6"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                "inputs": [
+                                  {
+                                    "type": "none",
+                                    "name": "default",
+                                    "items": [
+                                      {
+                                        "type": "spacer",
+                                        "name": "emptyItem",
+                                        "visible": true
+                                      },
+                                      {
+                                        "type": "dropdown",
+                                        "name": "id",
+                                        "visible": true,
+                                        "value": "highlight5"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "inputs": [
+                                {
+                                  "type": "none",
+                                  "name": "default",
+                                  "items": [
+                                    {
+                                      "type": "spacer",
+                                      "name": "emptyItem",
+                                      "visible": true
+                                    },
+                                    {
+                                      "type": "dropdown",
+                                      "name": "id",
+                                      "visible": true,
+                                      "value": "highlight4"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            "inputs": [
+                              {
+                                "type": "none",
+                                "name": "default",
+                                "items": [
+                                  {
+                                    "type": "spacer",
+                                    "name": "emptyItem",
+                                    "visible": true
+                                  },
+                                  {
+                                    "type": "dropdown",
+                                    "name": "id",
+                                    "visible": true,
+                                    "value": "highlight3"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          "inputs": [
+                            {
+                              "type": "none",
+                              "name": "default",
+                              "items": [
+                                {
+                                  "type": "spacer",
+                                  "name": "emptyItem",
+                                  "visible": true
+                                },
+                                {
+                                  "type": "dropdown",
+                                  "name": "id",
+                                  "visible": true,
+                                  "value": "highlight2"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        "inputs": [
+                          {
+                            "type": "pin",
+                            "name": "default",
+                            "block": {
+                              "uniqueId": "67c52f1b-9dfd-4c60-ab6b-e5884099276e",
+                              "typeName": "textValue",
+                              "enabled": true,
+                              "collapsed": false,
+                              "comment": null,
+                              "location": {
+                                "x": 0,
+                                "y": 0
+                              },
+                              "inputs": [
+                                {
+                                  "type": "none",
+                                  "name": "default",
+                                  "items": [
+                                    {
+                                      "type": "textbox",
+                                      "name": "value",
+                                      "visible": true,
+                                      "value": "Times New Roman"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            "items": [
+                              {
+                                "type": "spacer",
+                                "name": "emptyItem",
+                                "visible": true
+                              },
+                              {
+                                "type": "dropdown",
+                                "name": "id",
+                                "visible": true,
+                                "value": "text1"
+                              },
+                              {
+                                "type": "dropdown",
+                                "name": "propertyName",
+                                "visible": true,
+                                "value": "fontName"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      "items": []
+                    }
+                  ]
+                },
+                {
+                  "uniqueId": "278da7e5-15a4-4d3c-a9af-be1eb7b2c904",
+                  "typeName": "onInputKeyEvent",
+                  "enabled": true,
+                  "collapsed": false,
+                  "comment": null,
+                  "location": {
+                    "x": 480,
+                    "y": 130
+                  },
+                  "inputs": [
+                    {
+                      "type": "none",
+                      "name": "default",
+                      "items": [
+                        {
+                          "type": "dropdown",
+                          "name": "eventName",
+                          "visible": true,
+                          "value": "keyup"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "container",
+                      "name": "block",
+                      "flowBlock": {
+                        "uniqueId": "3b91584b-7154-4d26-ace0-b33ae4ddc270",
+                        "typeName": "variableSetValue",
+                        "enabled": true,
+                        "collapsed": false,
+                        "comment": null,
+                        "location": {
+                          "x": 0,
+                          "y": 0
+                        },
+                        "flowBlock": {
+                          "uniqueId": "18a3cd47-6fb1-4688-a3fd-06f9cae18f6b",
+                          "typeName": "textDesignObjectSetProperty",
+                          "enabled": true,
+                          "collapsed": false,
+                          "comment": null,
+                          "location": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "flowBlock": {
+                            "uniqueId": "c39fee53-79f2-4f17-acb5-cbcf4ed95b1e",
+                            "typeName": "controlIfThen",
+                            "enabled": true,
+                            "collapsed": false,
+                            "comment": null,
+                            "location": {
+                              "x": 0,
+                              "y": 0
+                            },
+                            "inputs": [
+                              {
+                                "type": "pin",
+                                "name": "if",
+                                "block": {
+                                  "uniqueId": "c9d4c2db-a540-4bf2-bcb4-1abc5736bed0",
+                                  "typeName": "logicEquality",
+                                  "enabled": true,
+                                  "collapsed": false,
+                                  "comment": null,
+                                  "location": {
+                                    "x": 0,
+                                    "y": 0
+                                  },
+                                  "inputs": [
+                                    {
+                                      "type": "none",
+                                      "name": "default",
+                                      "items": [
+                                        {
+                                          "type": "container",
+                                          "name": "containerA",
+                                          "visible": true,
+                                          "block": {
+                                            "uniqueId": "ec1d4754-3d54-4374-8619-4717e5ef2f83",
+                                            "typeName": "variableGetValue",
+                                            "enabled": true,
+                                            "collapsed": false,
+                                            "comment": null,
+                                            "location": {
+                                              "x": 0,
+                                              "y": 0
+                                            },
+                                            "inputs": [
+                                              {
+                                                "type": "none",
+                                                "name": "default",
+                                                "items": [
+                                                  {
+                                                    "type": "dropdown",
+                                                    "name": "name",
+                                                    "visible": true,
+                                                    "value": "keyCode"
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "type": "dropdown",
+                                          "name": "criteria",
+                                          "visible": true,
+                                          "value": "equal"
+                                        },
+                                        {
+                                          "type": "container",
+                                          "name": "containerB",
+                                          "visible": true,
+                                          "block": {
+                                            "uniqueId": "2be6ffd0-25d9-49ff-b291-ec34b7735358",
+                                            "typeName": "mathValue",
+                                            "enabled": true,
+                                            "collapsed": false,
+                                            "comment": null,
+                                            "location": {
+                                              "x": 0,
+                                              "y": 0
+                                            },
+                                            "inputs": [
+                                              {
+                                                "type": "none",
+                                                "name": "default",
+                                                "items": [
+                                                  {
+                                                    "type": "numeric",
+                                                    "name": "value",
+                                                    "visible": true,
+                                                    "value": 13
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                "items": [
+                                  {
+                                    "type": "spacer",
+                                    "name": "emptyItem",
+                                    "visible": true
+                                  },
+                                  {
+                                    "type": "button",
+                                    "name": "mutator",
+                                    "visible": true
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "container",
+                                "name": "then",
+                                "flowBlock": {
+                                  "uniqueId": "d29a8d3e-8caa-493c-8ce0-71b6f885176a",
+                                  "typeName": "variableSetValue",
+                                  "enabled": true,
+                                  "collapsed": false,
+                                  "comment": null,
+                                  "location": {
+                                    "x": 0,
+                                    "y": 0
+                                  },
+                                  "inputs": [
+                                    {
+                                      "type": "pin",
+                                      "name": "default",
+                                      "block": {
+                                        "uniqueId": "53fc5ab5-6657-4d0a-b9df-074bf26aab74",
+                                        "typeName": "textValue",
+                                        "enabled": true,
+                                        "collapsed": false,
+                                        "comment": null,
+                                        "location": {
+                                          "x": 0,
+                                          "y": 0
+                                        },
+                                        "inputs": [
+                                          {
+                                            "type": "none",
+                                            "name": "default",
+                                            "items": [
+                                              {
+                                                "type": "textbox",
+                                                "name": "value",
+                                                "visible": true,
+                                                "value": ""
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      "items": [
+                                        {
+                                          "type": "spacer",
+                                          "name": "emptyItem",
+                                          "visible": true
+                                        },
+                                        {
+                                          "type": "dropdown",
+                                          "name": "name",
+                                          "visible": true,
+                                          "value": "myVar1"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                "items": []
+                              }
+                            ]
+                          },
+                          "inputs": [
+                            {
+                              "type": "pin",
+                              "name": "default",
+                              "block": {
+                                "uniqueId": "c91f1994-133d-43f2-9ba1-ab0e77d21a73",
+                                "typeName": "variableGetValue",
+                                "enabled": true,
+                                "collapsed": false,
+                                "comment": null,
+                                "location": {
+                                  "x": 0,
+                                  "y": 0
+                                },
+                                "inputs": [
+                                  {
+                                    "type": "none",
+                                    "name": "default",
+                                    "items": [
+                                      {
+                                        "type": "dropdown",
+                                        "name": "name",
+                                        "visible": true,
+                                        "value": "myVar1"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "items": [
+                                {
+                                  "type": "spacer",
+                                  "name": "emptyItem",
+                                  "visible": true
+                                },
+                                {
+                                  "type": "dropdown",
+                                  "name": "id",
+                                  "visible": true,
+                                  "value": "text1"
+                                },
+                                {
+                                  "type": "dropdown",
+                                  "name": "propertyName",
+                                  "visible": true,
+                                  "value": "text"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        "inputs": [
+                          {
+                            "type": "pin",
+                            "name": "default",
+                            "block": {
+                              "uniqueId": "1c974949-e8c4-4c3f-bfc5-0cb84c7a6d8d",
+                              "typeName": "textConcat",
+                              "enabled": true,
+                              "collapsed": false,
+                              "comment": null,
+                              "location": {
+                                "x": 0,
+                                "y": 0
+                              },
+                              "inputs": [
+                                {
+                                  "type": "none",
+                                  "name": "value",
+                                  "items": [
+                                    {
+                                      "type": "container",
+                                      "name": "textA",
+                                      "visible": true,
+                                      "block": {
+                                        "uniqueId": "ec1d4754-3d54-4374-8619-4717e5ef2f83",
+                                        "typeName": "variableGetValue",
+                                        "enabled": true,
+                                        "collapsed": false,
+                                        "comment": null,
+                                        "location": {
+                                          "x": 0,
+                                          "y": 0
+                                        },
+                                        "inputs": [
+                                          {
+                                            "type": "none",
+                                            "name": "default",
+                                            "items": [
+                                              {
+                                                "type": "dropdown",
+                                                "name": "name",
+                                                "visible": true,
+                                                "value": "myVar1"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    {
+                                      "type": "container",
+                                      "name": "textB",
+                                      "visible": true,
+                                      "block": {
+                                        "uniqueId": "93a360b4-3128-4b6a-b9ad-27d8bfc9afef",
+                                        "typeName": "characterFromCharCode",
+                                        "enabled": true,
+                                        "collapsed": false,
+                                        "comment": null,
+                                        "location": {
+                                          "x": 0,
+                                          "y": 0
+                                        },
+                                        "inputs": [
+                                          {
+                                            "type": "pin",
+                                            "name": "default",
+                                            "block": {
+                                              "uniqueId": "015715a5-a9ca-4b93-a5b6-f027bea31aa8",
+                                              "typeName": "variableGetValue",
+                                              "enabled": true,
+                                              "collapsed": false,
+                                              "comment": null,
+                                              "location": {
+                                                "x": 0,
+                                                "y": 0
+                                              },
+                                              "inputs": [
+                                                {
+                                                  "type": "none",
+                                                  "name": "default",
+                                                  "items": [
+                                                    {
+                                                      "type": "dropdown",
+                                                      "name": "name",
+                                                      "visible": true,
+                                                      "value": "keyCode"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            "items": []
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            "items": [
+                              {
+                                "type": "spacer",
+                                "name": "emptyItem",
+                                "visible": true
+                              },
+                              {
+                                "type": "dropdown",
+                                "name": "name",
+                                "visible": true,
+                                "value": "myVar1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      "items": []
+                    }
+                  ]
+                },
+                {
+                  "uniqueId": "ec4fb042-c914-4cd5-ab65-0578c2b68927",
+                  "typeName": "variableInitializeGlobal",
+                  "enabled": true,
+                  "collapsed": false,
+                  "comment": null,
+                  "location": {
+                    "x": 279,
+                    "y": 412
+                  },
+                  "inputs": [
+                    {
+                      "type": "pin",
+                      "name": "default",
+                      "block": {
+                        "uniqueId": "937e2970-e083-4097-a28d-bc5ac148ba04",
+                        "typeName": "textValue",
+                        "enabled": true,
+                        "collapsed": false,
+                        "comment": null,
+                        "location": {
+                          "x": 0,
+                          "y": 0
+                        },
+                        "inputs": [
+                          {
+                            "type": "none",
+                            "name": "default",
+                            "items": [
+                              {
+                                "type": "textbox",
+                                "name": "value",
+                                "visible": true,
+                                "value": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      "items": [
+                        {
+                          "type": "textbox",
+                          "name": "name",
+                          "visible": true,
+                          "value": "myVar1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "uniqueId": "31c17875-547f-4d14-9895-55e6d855874a",
+                  "typeName": "primitiveDesignObjectOnMouseEvent",
+                  "enabled": true,
+                  "collapsed": false,
+                  "comment": null,
+                  "location": {
+                    "x": 38,
+                    "y": 15
+                  },
+                  "inputs": [
+                    {
+                      "type": "none",
+                      "name": "default",
+                      "items": [
+                        {
+                          "type": "dropdown",
+                          "name": "id",
+                          "visible": true,
+                          "value": "ellipse1"
+                        },
+                        {
+                          "type": "dropdown",
+                          "name": "eventName",
+                          "visible": true,
+                          "value": "click"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "container",
+                      "name": "block",
+                      "flowBlock": {
+                        "uniqueId": "5710c1fa-efb3-4760-b3b8-5fda78456644",
+                        "typeName": "textDesignObjectSetProperty",
+                        "enabled": true,
+                        "collapsed": false,
+                        "comment": null,
+                        "location": {
+                          "x": 0,
+                          "y": 0
+                        },
+                        "inputs": [
+                          {
+                            "type": "pin",
+                            "name": "default",
+                            "block": {
+                              "uniqueId": "93e2a6b2-2038-444e-92da-9eb76387fee6",
+                              "typeName": "textValue",
+                              "enabled": true,
+                              "collapsed": false,
+                              "comment": null,
+                              "location": {
+                                "x": 0,
+                                "y": 0
+                              },
+                              "inputs": [
+                                {
+                                  "type": "none",
+                                  "name": "default",
+                                  "items": [
+                                    {
+                                      "type": "textbox",
+                                      "name": "value",
+                                      "visible": true,
+                                      "value": "Burası Neresi"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            "items": [
+                              {
+                                "type": "spacer",
+                                "name": "emptyItem",
+                                "visible": true
+                              },
+                              {
+                                "type": "dropdown",
+                                "name": "id",
+                                "visible": true,
+                                "value": "text1"
+                              },
+                              {
+                                "type": "dropdown",
+                                "name": "propertyName",
+                                "visible": true,
+                                "value": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      "items": []
+                    }
+                  ]
+                },
+                {
+                  "uniqueId": "2b5de2ac-3fd9-4117-8fcb-ac4ae5ba7ad3",
+                  "typeName": "imageDesignObjectOnMouseEvent",
+                  "enabled": true,
+                  "collapsed": false,
+                  "comment": null,
+                  "location": {
+                    "x": 457,
+                    "y": 17
+                  },
+                  "inputs": [
+                    {
+                      "type": "none",
+                      "name": "default",
+                      "items": [
+                        {
+                          "type": "dropdown",
+                          "name": "id",
+                          "visible": true,
+                          "value": "image3"
+                        },
+                        {
+                          "type": "dropdown",
+                          "name": "eventName",
+                          "visible": true,
+                          "value": "click"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "container",
+                      "name": "block",
+                      "flowBlock": {
+                        "uniqueId": "47c1310f-e573-469c-8b59-f736abdcda70",
+                        "typeName": "alert",
+                        "enabled": true,
+                        "collapsed": false,
+                        "comment": null,
+                        "location": {
+                          "x": 0,
+                          "y": 0
+                        },
+                        "inputs": [
+                          {
+                            "type": "pin",
+                            "name": "default",
+                            "block": {
+                              "uniqueId": "31486197-1241-45a7-872e-7e28c24f2ffb",
+                              "typeName": "textValue",
+                              "enabled": true,
+                              "collapsed": false,
+                              "comment": null,
+                              "location": {
+                                "x": 0,
+                                "y": 0
+                              },
+                              "inputs": [
+                                {
+                                  "type": "none",
+                                  "name": "default",
+                                  "items": [
+                                    {
+                                      "type": "textbox",
+                                      "name": "value",
+                                      "visible": true,
+                                      "value": "Kastamonu Vilayeti"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            "items": [
+                              {
+                                "type": "spacer",
+                                "name": "emptyItem",
+                                "visible": true
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      "items": []
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "uniqueId": "89ea62d4-3be3-4d04-a000-4c6a843dad2d",
+        "name": "Katman 1",
+        "selected": false,
+        "visible": true,
+        "locked": true,
+        "keyframes": [
+          {
+            "uniqueId": "9cf22b2b-8f7e-4d42-a8ac-d5c9a2e27f5b",
+            "motionTween": false,
+            "soundUrl": "",
+            "rotationDirection": "clockwise",
+            "frameCount": 1,
+            "easingFunction": "linear",
+            "designObjects": [
+              {
+                "typeName": "imageDesignObject",
+                "id": "image1",
+                "uniqueId": "daece576-e3f0-40d0-86d5-83f0df07b53d",
+                "enabled": true,
+                "location": {
+                  "x": 0,
+                  "y": 33
+                },
+                "size": {
+                  "width": 751,
+                  "height": 400
+                },
+                "alpha": 100,
+                "visible": true,
+                "isDraggable": false,
+                "revertDragging": "true",
+                "isDroppable": false,
+                "useHandCursor": false,
+                "className": "",
+                "rotation": 0.0,
+                "pivotLocation": {
+                  "x": 376,
+                  "y": 200
+                },
+                "currentPivotLocation": {
+                  "x": 376,
+                  "y": 200
+                },
+                "isVisual": true,
+                "highlightBehavior": false,
+                "imageUrl": ".\\images\\4lturkiye-siyasi-haritasi3.png",
+                "spriteSize": {
+                  "width": 100,
+                  "height": 100
+                },
+                "isSprite": false,
+                "spriteFrameCount": 0,
+                "spriteSequencerType": "none",
+                "spriteInitialFrameIndex": 1,
+                "spriteFramePerSecond": 24.0,
+                "autoAnimate": false,
+                "isSpriteLooping": false,
+                "keepAspectRatio": false,
+                "resizingType": "scale"
+              },
+              {
+                "typeName": "imageDesignObject",
+                "id": "image2",
+                "uniqueId": "96d81ba7-bdcc-4a71-8121-6ac4a3bb0228",
+                "enabled": true,
+                "location": {
+                  "x": 607,
+                  "y": 231
+                },
+                "size": {
+                  "width": 65,
+                  "height": 34
+                },
+                "alpha": 100,
+                "visible": true,
+                "isDraggable": false,
+                "revertDragging": "true",
+                "isDroppable": false,
+                "useHandCursor": true,
+                "className": "",
+                "rotation": 0.0,
+                "pivotLocation": {
+                  "x": 32,
+                  "y": 17
+                },
+                "currentPivotLocation": {
+                  "x": 32,
+                  "y": 17
+                },
+                "isVisual": true,
+                "highlightBehavior": false,
+                "imageUrl": ".\\images\\siirt.png",
+                "spriteSize": {
+                  "width": 67,
+                  "height": 34
+                },
+                "isSprite": false,
+                "spriteFrameCount": 0,
+                "spriteSequencerType": "none",
+                "spriteInitialFrameIndex": 1,
+                "spriteFramePerSecond": 24.0,
+                "autoAnimate": false,
+                "isSpriteLooping": false,
+                "keepAspectRatio": false,
+                "resizingType": "scale"
+              },
+              {
+                "typeName": "highlightDesignObject",
+                "id": "highlight1",
+                "uniqueId": "770fd6fb-4ef4-4809-a8a9-15fdd99bc710",
+                "enabled": true,
+                "location": {
+                  "x": 522,
+                  "y": 221
+                },
+                "size": {
+                  "width": 77,
+                  "height": 53
+                },
+                "alpha": 100,
+                "visible": true,
+                "className": "",
+                "pivotLocation": {
+                  "x": 38,
+                  "y": 27
+                },
+                "currentPivotLocation": {
+                  "x": 38,
+                  "y": 27
+                },
+                "isVisual": true,
+                "highlightOrientation": "all",
+                "highlightColor": "black",
+                "highlightType": "point",
+                "customFramePerSecond": 0,
+                "customImageCount": 0,
+                "customImageUrl": ""
+              },
+              {
+                "typeName": "highlightDesignObject",
+                "id": "highlight6",
+                "uniqueId": "627abb6d-f86c-495e-a77b-367ceef96c6f",
+                "enabled": true,
+                "location": {
+                  "x": 617,
+                  "y": 234
+                },
+                "size": {
+                  "width": 41,
+                  "height": 26
+                },
+                "alpha": 100,
+                "visible": true,
+                "className": "",
+                "pivotLocation": {
+                  "x": 20,
+                  "y": 13
+                },
+                "currentPivotLocation": {
+                  "x": 50,
+                  "y": 50
+                },
+                "isVisual": true,
+                "highlightOrientation": "all",
+                "highlightColor": "black",
+                "highlightType": "input_text",
+                "customFramePerSecond": 0,
+                "customImageCount": 0,
+                "customImageUrl": ""
+              }
+            ],
+            "blocksDiagram": {
+              "uniqueId": "4ccf1871-dd1c-4af2-8833-00dcecad46e3",
+              "workspaceLocation": {
+                "x": 0,
+                "y": 0
+              },
+              "blocks": [
+                {
+                  "uniqueId": "bd9efc40-04a9-49a0-afe9-bbb00f402bea",
+                  "typeName": "imageDesignObjectOnMouseEvent",
+                  "enabled": true,
+                  "collapsed": false,
+                  "comment": null,
+                  "location": {
+                    "x": 122,
+                    "y": 58
+                  },
+                  "inputs": [
+                    {
+                      "type": "none",
+                      "name": "default",
+                      "items": [
+                        {
+                          "type": "dropdown",
+                          "name": "id",
+                          "visible": true,
+                          "value": "image2"
+                        },
+                        {
+                          "type": "dropdown",
+                          "name": "eventName",
+                          "visible": true,
+                          "value": "click"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "container",
+                      "name": "block",
+                      "flowBlock": {
+                        "uniqueId": "2a0804a3-a1e9-4064-bd5c-d979f40cfcb5",
+                        "typeName": "alert",
+                        "enabled": true,
+                        "collapsed": false,
+                        "comment": null,
+                        "location": {
+                          "x": 0,
+                          "y": 0
+                        },
+                        "flowBlock": {
+                          "uniqueId": "7eae861c-64f9-4be5-afa5-feb53ac12cf9",
+                          "typeName": "highlightDesignObjectShow",
+                          "enabled": true,
+                          "collapsed": false,
+                          "comment": null,
+                          "location": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "inputs": [
+                            {
+                              "type": "none",
+                              "name": "default",
+                              "items": [
+                                {
+                                  "type": "spacer",
+                                  "name": "emptyItem",
+                                  "visible": true
+                                },
+                                {
+                                  "type": "dropdown",
+                                  "name": "id",
+                                  "visible": true,
+                                  "value": "highlight1"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        "inputs": [
+                          {
+                            "type": "pin",
+                            "name": "default",
+                            "block": {
+                              "uniqueId": "77e6f9b9-fbca-4e53-a6a6-103cc7333605",
+                              "typeName": "textValue",
+                              "enabled": true,
+                              "collapsed": false,
+                              "comment": null,
+                              "location": {
+                                "x": 0,
+                                "y": 0
+                              },
+                              "inputs": [
+                                {
+                                  "type": "none",
+                                  "name": "default",
+                                  "items": [
+                                    {
+                                      "type": "textbox",
+                                      "name": "value",
+                                      "visible": true,
+                                      "value": "Burası Siirt Buradan Çıkış Var mıdır?"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            "items": [
+                              {
+                                "type": "spacer",
+                                "name": "emptyItem",
+                                "visible": true
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      "items": []
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "preloaderItems": [
+    {
+      "fileName": "images/4lturkiye-siyasi-haritasi3.png",
+      "selected": true
+    },
+    {
+      "fileName": "images/GCP_FB_icon.png",
+      "selected": true
+    },
+    {
+      "fileName": "images/siirt.png",
+      "selected": true
+    },
+    {
+      "fileName": "scripts/InteraktifEtkinligim.js",
+      "selected": true
+    },
+    {
+      "fileName": "images/kastam.png",
+      "selected": true
+    }
+  ],
+  "settings": {
+    "browser": "Varsayılan",
+    "framesPerSecond": 24.0,
+    "outputFolder": "output",
+    "documentScriptFileName": "",
+    "imagesSourceFolder": "images",
+    "imagesTargetFolder": "img",
+    "soundsSourceFolder": "sounds",
+    "soundsTargetFolder": "sound",
+    "stylesSourceFolder": "styles",
+    "stylesTargetFolder": "css",
+    "videosSourceFolder": "videos",
+    "videosTargetFolder": "video",
+    "scriptsSourceFolder": "scripts",
+    "scriptsTargetFolder": "js",
+    "contentsTargetFolder": "resources",
+    "isAutoPlay": true,
+    "isLooping": false,
+    "backgroundColor": "White",
+    "hasTransparentBackground": false,
+    "deleteOutputFolderFiles": false,
+    "width": 762,
+    "height": 463,
+    "fixedWidth": false,
+    "fixedHeight": false,
+    "publisherIdentifier": "eb95320e-0fac-40df-8c48-7237212e46e8",
+    "debugMode": false,
+    "minifyScripts": false,
+    "minifyStyles": false,
+    "omitConsoleMessages": false,
+    "publishArguments": null,
+    "contentType": "interactive_exercise",
+    "title": null
+  }
+}
